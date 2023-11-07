@@ -84,7 +84,7 @@ def fetch_image_urls(query:str, max_links_to_fetch:int, wd:webdriver, sleep_betw
 
     return image_urls
 
-@timeout_decorator.timeout(60) # if taking more than 1 minute then timeout
+@timeout_decorator.timeout(10) # if taking more than 1 minute then timeout
 def persist_image(folder_path:str,file_name:str,url:str):
     try:
         try:
@@ -118,13 +118,13 @@ if __name__ == '__main__':
     options = webdriver.ChromeOptions()
     options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.0.0 Safari/537.36")
     wd = webdriver.Chrome(options=options)
-    queries = ["Manchester City", "Manchester United"]  #change your set of queries here
+    queries = ["Manchester City", "Machester United"]  #change your set of queries here
     for query in queries:
         wd.get('https://google.com')
         search_box = wd.find_element(By.CSS_SELECTOR, 'textarea[jsname="yZiJbe"].gLFyf')
         #search_box = wd.find_element_by_css_selector('input.gLFyf')
         search_box.send_keys(query)
-        links = fetch_image_urls(query,2,wd) # 500 denotes no. of images you want to download
+        links = fetch_image_urls(query,20,wd) # 500 denotes no. of images you want to download
         images_path = 'dataset/'
         for i in links:
             persist_image(images_path,query,i)
