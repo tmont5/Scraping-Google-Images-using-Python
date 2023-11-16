@@ -1,5 +1,8 @@
 import selenium
 from selenium import webdriver
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+
 import time
 import requests
 import os
@@ -16,15 +19,25 @@ import timeout_decorator
 
 def fetch_image_urls(query:str, max_links_to_fetch:int, wd:webdriver, sleep_between_interactions:int=1):
     def scroll_to_end(wd):
+        #for i in range(3):
+        #wd.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+        #scroll_pause_time = 2
+        #time.sleep(scroll_pause_time) 
+        #wd.execute_script("window.scrollBy(0, 1000);")  # Scroll down by 1000 pixels
+        #WebDriverWait(wd, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, 'img[jsname="Q4LuWd"]')))
         wd.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-        time.sleep(sleep_between_interactions)        
-    
+        # Wait for new images to load or for a 'Load More' button to appear
+        WebDriverWait(wd, 10).until(
+            EC.presence_of_element_located((By.CSS_SELECTOR, 'img[jsname="Q4LuWd"], [jsaction="Pmjnye"]'))
+        ) 
+        
     # build the google query
     search_url = "https://www.google.com/search?safe=off&site=&tbm=isch&source=hp&q={q}&oq={q}&gs_l=img"
 
     # load the page
     wd.get(search_url.format(q=query))
 
+    
     image_urls = set()
     image_count = 0
     results_start = 0
@@ -46,7 +59,10 @@ def fetch_image_urls(query:str, max_links_to_fetch:int, wd:webdriver, sleep_betw
             try:
                 print('Trying to Click the Image')
                 img.click()
-                time.sleep(sleep_between_interactions)
+                WebDriverWait(wd, 10).until(
+                    EC.presence_of_element_located((By.CSS_SELECTOR, 'img[jsname="kn3ccd"]'))
+                )
+                #time.sleep(sleep_between_interactions)
                 print('Image Click Successful!')
             except Exception:
                 error_clicks = error_clicks + 1
@@ -55,8 +71,8 @@ def fetch_image_urls(query:str, max_links_to_fetch:int, wd:webdriver, sleep_betw
                 	continue
                 else:
                     break
-            else: 	
-                results_start = results_start + 1
+            #else: 	
+                #results_start = results_start + 1
 
             # extract image urls    
             print('Extracting of Image URLs')
@@ -76,9 +92,13 @@ def fetch_image_urls(query:str, max_links_to_fetch:int, wd:webdriver, sleep_betw
                 print(f"Found: {len(image_urls)} image links, done!")
                 break
             else:
-                load_more_button = wd.find_elements(By.CSS_SELECTOR, ".mye4qd")
-                if load_more_button:
-                    wd.execute_script("document.querySelector('.mye4qd').click();")
+                try:
+                    load_more_button = wd.find_element(By.CSS_SELECTOR, '[jsaction="Pmjnye"]')
+                    if load_more_button:
+                        wd.execute_script("arguments[0].click();", load_more_button)
+                except Exception as e:
+                    print("Load more button not found or not clickable", e)
+                    break
             	        
         results_start = len(thumbnail_results)
 
@@ -118,13 +138,13 @@ if __name__ == '__main__':
     options = webdriver.ChromeOptions()
     options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.0.0 Safari/537.36")
     wd = webdriver.Chrome(options=options)
-    queries = ["Manchester City", "Machester United"]  #change your set of queries here
+    queries = ["Machester City"]  #change your set of queries here
     for query in queries:
         wd.get('https://google.com')
         search_box = wd.find_element(By.CSS_SELECTOR, 'textarea[jsname="yZiJbe"].gLFyf')
         #search_box = wd.find_element_by_css_selector('input.gLFyf')
         search_box.send_keys(query)
-        links = fetch_image_urls(query,20,wd) # 500 denotes no. of images you want to download
+        links = fetch_image_urls(query,50,wd) # 500 denotes no. of images you want to download
         images_path = 'dataset/'
         for i in links:
             persist_image(images_path,query,i)
