@@ -105,7 +105,7 @@ def fetch_image_urls(query:str, max_links_to_fetch:int, wd:webdriver, sleep_betw
     return image_urls
 
 @timeout_decorator.timeout(10) # if taking more than 1 minute then timeout
-def persist_image(folder_path:str,file_name:str,url:str):
+def persist_image(folder_path:str,file_name:str,url:str, target_size=(640, 480)):
     try:
         try:
             image_content = requests.get(url).content
@@ -116,6 +116,7 @@ def persist_image(folder_path:str,file_name:str,url:str):
         try:
             image_file = io.BytesIO(image_content)
             image = Image.open(image_file).convert('RGB')
+            image = image.resize(target_size)
             folder_path = os.path.join(folder_path,file_name)
             if os.path.exists(folder_path):
                 file_path = os.path.join(folder_path,hashlib.sha1(image_content).hexdigest()[:10] + '.jpg')
@@ -138,13 +139,13 @@ if __name__ == '__main__':
     options = webdriver.ChromeOptions()
     options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.0.0 Safari/537.36")
     wd = webdriver.Chrome(options=options)
-    queries = ["Machester City"]  #change your set of queries here
+    queries = ["toyota camry 2010 exterior"]  #change your set of queries here
     for query in queries:
         wd.get('https://google.com')
         search_box = wd.find_element(By.CSS_SELECTOR, 'textarea[jsname="yZiJbe"].gLFyf')
         #search_box = wd.find_element_by_css_selector('input.gLFyf')
         search_box.send_keys(query)
-        links = fetch_image_urls(query,50,wd) # 500 denotes no. of images you want to download
+        links = fetch_image_urls(query,15,wd) # 500 denotes no. of images you want to download
         images_path = 'dataset/'
         for i in links:
             persist_image(images_path,query,i)
