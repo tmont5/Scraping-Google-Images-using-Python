@@ -116,7 +116,7 @@ def persist_image(folder_path:str,file_name:str,url:str, target_size=(640, 480))
         try:
             image_file = io.BytesIO(image_content)
             image = Image.open(image_file).convert('RGB')
-            image = image.resize(target_size)
+            #image = image.resize(target_size)
             folder_path = os.path.join(folder_path,file_name)
             if os.path.exists(folder_path):
                 file_path = os.path.join(folder_path,hashlib.sha1(image_content).hexdigest()[:10] + '.jpg')
@@ -147,6 +147,7 @@ if __name__ == '__main__':
         search_box.send_keys(query)
         links = fetch_image_urls(query,15,wd) # 500 denotes no. of images you want to download
         images_path = 'dataset/'
+        
         for i in links:
             persist_image(images_path,query,i)
     wd.quit()
