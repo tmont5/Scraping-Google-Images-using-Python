@@ -2,7 +2,7 @@ import selenium
 from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-
+import csv
 import time
 import requests
 import os
@@ -105,7 +105,7 @@ def fetch_image_urls(query:str, max_links_to_fetch:int, wd:webdriver, sleep_betw
     return image_urls
 
 @timeout_decorator.timeout(10) # if taking more than 1 minute then timeout
-def persist_image(folder_path:str,file_name:str,url:str, target_size=(640, 480)):
+def persist_image(folder_path:str,file_name:str,url:str, model: str, make: str, year: str, target_size=(640, 480)):
     try:
         try:
             image_content = requests.get(url).content
@@ -129,6 +129,13 @@ def persist_image(folder_path:str,file_name:str,url:str, target_size=(640, 480))
             with open(file_path, 'wb') as f:
                 image.save(f, "JPEG", quality=85)
             print(f"SUCCESS - saved {url} - as {file_path}")
+            
+            # Add image information to CSV file
+            csv_path = 'image_data.csv'
+            with open(csv_path, mode='a', newline='') as csv_file:
+                csv_writer = csv.writer(csv_file)
+                csv_writer.writerow([file_path, model, make, year])
+            
         except Exception as e:
             print(f"ERROR - Could not save {url} - {e}")
     except TimeoutError:
@@ -139,15 +146,22 @@ if __name__ == '__main__':
     options = webdriver.ChromeOptions()
     options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.0.0 Safari/537.36")
     wd = webdriver.Chrome(options=options)
-    queries = ["toyota camry 2010 exterior"]  #change your set of queries here
+    file_path1 = 'car.txt'
+    with open(file_path1, 'r') as f:
+        queries = f.readlines()
+    queries = [x.strip() for x in queries]
+    #queries = ["toyota camry 1985 exterior", "toyota camry 1995 exterior", "toyota camry 2005 exterior", "toyota camry 2015 exterior", "toyota camry 2023 exterior"]  #change your set of queries here
     for query in queries:
         wd.get('https://google.com')
         search_box = wd.find_element(By.CSS_SELECTOR, 'textarea[jsname="yZiJbe"].gLFyf')
         #search_box = wd.find_element_by_css_selector('input.gLFyf')
         search_box.send_keys(query)
-        links = fetch_image_urls(query,15,wd) # 500 denotes no. of images you want to download
+        links = fetch_image_urls(query,5,wd) # 500 denotes no. of images you want to download
         images_path = 'dataset/'
-        
+        words = query.split()
+        make = words[0]
+        model = words[1]
+        year = words[2]
         for i in links:
-            persist_image(images_path,query,i)
+            persist_image(images_path,query,i, model, make, year)
     wd.quit()
