@@ -56,7 +56,6 @@ dataset/toyota camry 2023 exterior/6b69368a3c.jpg,camry,toyota,2023
 dataset/toyota camry 2023 exterior/4449dd0d8e.jpg,camry,toyota,2023
 dataset/BMW M3 Sedan 1995 exterior/6720aaa2c1.jpg,M3,BMW,Sedan
 dataset/BMW M3 Sedan 1995 exterior/8f16517492.jpg,M3,BMW,Sedan
-dataset/BMW M3 Sedan 1995 exterior/f148e779a7.jpg,M3,BMW,Sedan
 dataset/BMW M3 Sedan 1995 exterior/ce0081aea3.jpg,M3,BMW,Sedan
 dataset/BMW M3 Sedan 1995 exterior/fa2b12e1c8.jpg,M3,BMW,Sedan
 dataset/BMW M3 Sedan 1995 exterior/75937df475.jpg,M3,BMW,Sedan
@@ -114,24 +113,16 @@ dataset/BMW M3 Sedan 2023 exterior/cc9561128a.jpg,M3,BMW,Sedan
 dataset/BMW M3 Sedan 2023 exterior/b4f855c4fd.jpg,M3,BMW,Sedan
 dataset/Honda Civic 2005 exterior/2ae5e4088e.jpg,Civic,Honda,2005
 dataset/Honda Civic 2005 exterior/0699bb7773.jpg,Civic,Honda,2005
-dataset/Honda Civic 2005 exterior/4c2c86e698.jpg,Civic,Honda,2005
-dataset/Honda Civic 2005 exterior/d26f4e8f98.jpg,Civic,Honda,2005
-dataset/Honda Civic 2005 exterior/8ae113d88d.jpg,Civic,Honda,2005
 dataset/Honda Civic 2005 exterior/848ea64a5b.jpg,Civic,Honda,2005
 dataset/Honda Civic 2005 exterior/bf2ba00939.jpg,Civic,Honda,2005
-dataset/Honda Civic 2005 exterior/5650abd4ed.jpg,Civic,Honda,2005
 dataset/Honda Civic 2005 exterior/dd94d00708.jpg,Civic,Honda,2005
-dataset/Honda Civic 2005 exterior/766bb0eb48.jpg,Civic,Honda,2005
 dataset/Honda Civic 2005 exterior/7f7ef6975d.jpg,Civic,Honda,2005
 dataset/Honda Civic 2005 exterior/dcd0626817.jpg,Civic,Honda,2005
 dataset/Honda Civic 2005 exterior/46aca49b9e.jpg,Civic,Honda,2005
 dataset/Honda Civic 2005 exterior/855245b3d5.jpg,Civic,Honda,2005
 dataset/Honda Civic 2005 exterior/27248cf1d9.jpg,Civic,Honda,2005
 dataset/Honda Civic 2005 exterior/20f7c87f4e.jpg,Civic,Honda,2005
-dataset/Honda Civic 2005 exterior/35ef81c93e.jpg,Civic,Honda,2005
-dataset/Honda Civic 2005 exterior/9f523480c1.jpg,Civic,Honda,2005
 dataset/Honda Civic 2005 exterior/7504d07311.jpg,Civic,Honda,2005
-dataset/Honda Civic 2005 exterior/23d71737a7.jpg,Civic,Honda,2005
 dataset/Honda Civic 2015 exterior/bc2c3ddbbf.jpg,Civic,Honda,2015
 dataset/Honda Civic 2015 exterior/bf5a36d1c7.jpg,Civic,Honda,2015
 dataset/Honda Civic 2015 exterior/c1bd74f1d1.jpg,Civic,Honda,2015
@@ -163,10 +154,8 @@ dataset/Honda Civic 2023 exterior/6a49de3ee9.jpg,Civic,Honda,2023
 dataset/Honda Civic 2023 exterior/01b825028b.jpg,Civic,Honda,2023
 dataset/Honda Civic 2023 exterior/fc2a2581f1.jpg,Civic,Honda,2023
 dataset/Honda Civic 2023 exterior/1e057c0c34.jpg,Civic,Honda,2023
-dataset/Lexus LS 1995 exterior/46c84403f1.jpg,LS,Lexus,1995
 dataset/Lexus LS 1995 exterior/55dabaee74.jpg,LS,Lexus,1995
 dataset/Lexus LS 1995 exterior/aec315b7f6.jpg,LS,Lexus,1995
-dataset/Lexus LS 1995 exterior/5cbd76d07f.jpg,LS,Lexus,1995
 dataset/Lexus LS 1995 exterior/95a4bd9bf8.jpg,LS,Lexus,1995
 dataset/Lexus LS 1995 exterior/1edba163ad.jpg,LS,Lexus,1995
 dataset/Lexus LS 1995 exterior/8245c2992b.jpg,LS,Lexus,1995
@@ -180,7 +169,6 @@ dataset/Lexus LS 1995 exterior/070e0cb7c7.jpg,LS,Lexus,1995
 dataset/Lexus LS 1995 exterior/6e3b975292.jpg,LS,Lexus,1995
 dataset/Lexus LS 1995 exterior/4bfe2fa8ad.jpg,LS,Lexus,1995
 dataset/Lexus LS 1995 exterior/e4390d2cbd.jpg,LS,Lexus,1995
-dataset/Lexus LS 1995 exterior/3a8c74dd91.jpg,LS,Lexus,1995
 dataset/Lexus LS 1995 exterior/01b8cf5aaa.jpg,LS,Lexus,1995
 dataset/Lexus LS 1995 exterior/02409afa09.jpg,LS,Lexus,1995
 dataset/Lexus LS 1995 exterior/4ed576214f.jpg,LS,Lexus,1995
@@ -190,7 +178,6 @@ dataset/Lexus LS 2015 exterior/3c76304979.jpg,LS,Lexus,2015
 dataset/Lexus LS 2015 exterior/83b70751c4.jpg,LS,Lexus,2015
 dataset/Lexus LS 2015 exterior/357de467ac.jpg,LS,Lexus,2015
 dataset/Lexus LS 2015 exterior/6001c86a6f.jpg,LS,Lexus,2015
-dataset/Lexus LS 2015 exterior/05fe601da5.jpg,LS,Lexus,2015
 dataset/Lexus LS 2015 exterior/1d4d3afa39.jpg,LS,Lexus,2015
 dataset/Lexus LS 2015 exterior/3c74253d9d.jpg,LS,Lexus,2015
 dataset/Lexus LS 2015 exterior/57a49e07f3.jpg,LS,Lexus,2015
@@ -224,34 +211,24 @@ dataset/Lexus LS 2023 exterior/8078de74e7.jpg,LS,Lexus,2023
 dataset/Lexus LS 2023 exterior/5f20de67aa.jpg,LS,Lexus,2023
 dataset/Lexus LS 2023 exterior/df60af8652.jpg,LS,Lexus,2023
 dataset/Lexus LS 2023 exterior/1abfa585ae.jpg,LS,Lexus,2023
-dataset/Hyundai Elantra 1995 exterior/4fd988982e.jpg,Elantra,Hyundai,1995
 dataset/Hyundai Elantra 1995 exterior/86b3e92ed3.jpg,Elantra,Hyundai,1995
 dataset/Hyundai Elantra 1995 exterior/d9dbb3f106.jpg,Elantra,Hyundai,1995
 dataset/Hyundai Elantra 1995 exterior/d88f00e170.jpg,Elantra,Hyundai,1995
 dataset/Hyundai Elantra 1995 exterior/296d5c26f8.jpg,Elantra,Hyundai,1995
-dataset/Hyundai Elantra 1995 exterior/ea1bc41457.jpg,Elantra,Hyundai,1995
-dataset/Hyundai Elantra 1995 exterior/ad1889cd25.jpg,Elantra,Hyundai,1995
 dataset/Hyundai Elantra 1995 exterior/d238fef615.jpg,Elantra,Hyundai,1995
-dataset/Hyundai Elantra 1995 exterior/fecb36532a.jpg,Elantra,Hyundai,1995
 dataset/Hyundai Elantra 1995 exterior/c2b08d884f.jpg,Elantra,Hyundai,1995
 dataset/Hyundai Elantra 1995 exterior/9615639378.jpg,Elantra,Hyundai,1995
 dataset/Hyundai Elantra 1995 exterior/4ad324c9a0.jpg,Elantra,Hyundai,1995
 dataset/Hyundai Elantra 1995 exterior/da673e3b64.jpg,Elantra,Hyundai,1995
-dataset/Hyundai Elantra 1995 exterior/de6275e522.jpg,Elantra,Hyundai,1995
 dataset/Hyundai Elantra 1995 exterior/c3dba53ae0.jpg,Elantra,Hyundai,1995
-dataset/Hyundai Elantra 1995 exterior/7ab2f12166.jpg,Elantra,Hyundai,1995
 dataset/Hyundai Elantra 1995 exterior/e82674928d.jpg,Elantra,Hyundai,1995
-dataset/Hyundai Elantra 1995 exterior/758949a273.jpg,Elantra,Hyundai,1995
-dataset/Hyundai Elantra 1995 exterior/0f5ccc4ad2.jpg,Elantra,Hyundai,1995
 dataset/Hyundai Elantra 2005 exterior/306aef08b3.jpg,Elantra,Hyundai,2005
 dataset/Hyundai Elantra 2005 exterior/e2b67889e2.jpg,Elantra,Hyundai,2005
-dataset/Hyundai Elantra 2005 exterior/27e301ab16.jpg,Elantra,Hyundai,2005
 dataset/Hyundai Elantra 2005 exterior/7d914c2ff0.jpg,Elantra,Hyundai,2005
 dataset/Hyundai Elantra 2005 exterior/2288614cb1.jpg,Elantra,Hyundai,2005
 dataset/Hyundai Elantra 2005 exterior/ccc8ea86d0.jpg,Elantra,Hyundai,2005
 dataset/Hyundai Elantra 2005 exterior/cbcebb4e30.jpg,Elantra,Hyundai,2005
 dataset/Hyundai Elantra 2005 exterior/8a5e7e1cd8.jpg,Elantra,Hyundai,2005
-dataset/Hyundai Elantra 2005 exterior/c0ec701f2f.jpg,Elantra,Hyundai,2005
 dataset/Hyundai Elantra 2005 exterior/c6c223ce32.jpg,Elantra,Hyundai,2005
 dataset/Hyundai Elantra 2005 exterior/6c9c8f0a97.jpg,Elantra,Hyundai,2005
 dataset/Hyundai Elantra 2005 exterior/39946da8ca.jpg,Elantra,Hyundai,2005
@@ -340,16 +317,12 @@ dataset/Honda Accord 1985 exterior/efed7749e2.jpg,Accord,Honda,1985
 dataset/Honda Accord 1985 exterior/2047cceb98.jpg,Accord,Honda,1985
 dataset/Honda Accord 1985 exterior/8ee3dbb921.jpg,Accord,Honda,1985
 dataset/Honda Accord 1985 exterior/0e793645d5.jpg,Accord,Honda,1985
-dataset/Honda Accord 1985 exterior/5cbd76d07f.jpg,Accord,Honda,1985
-dataset/Honda Accord 1985 exterior/d772b32780.jpg,Accord,Honda,1985
-dataset/Honda Accord 1985 exterior/c4e6bfb5f4.jpg,Accord,Honda,1985
 dataset/Honda Accord 1985 exterior/e8088f7b76.jpg,Accord,Honda,1985
 dataset/Honda Accord 1985 exterior/7f83187fa0.jpg,Accord,Honda,1985
 dataset/Honda Accord 1985 exterior/7aa854bf59.jpg,Accord,Honda,1985
 dataset/Honda Accord 1985 exterior/550414da75.jpg,Accord,Honda,1985
 dataset/Honda Accord 1985 exterior/814826e672.jpg,Accord,Honda,1985
 dataset/Honda Accord 1985 exterior/e079cb5425.jpg,Accord,Honda,1985
-dataset/Honda Accord 1985 exterior/a0efe54983.jpg,Accord,Honda,1985
 dataset/Honda Accord 1995 exterior/2036bfdaf0.jpg,Accord,Honda,1995
 dataset/Honda Accord 1995 exterior/309501b5b8.jpg,Accord,Honda,1995
 dataset/Honda Accord 1995 exterior/a2d0084d21.jpg,Accord,Honda,1995
@@ -373,7 +346,6 @@ dataset/Honda Accord 1995 exterior/c9a8ae7c43.jpg,Accord,Honda,1995
 dataset/Honda Accord 2005 exterior/9a865ec03f.jpg,Accord,Honda,2005
 dataset/Honda Accord 2005 exterior/60478d2345.jpg,Accord,Honda,2005
 dataset/Honda Accord 2005 exterior/4bddfce107.jpg,Accord,Honda,2005
-dataset/Honda Accord 2005 exterior/66b2e7dff3.jpg,Accord,Honda,2005
 dataset/Honda Accord 2005 exterior/f49a924acf.jpg,Accord,Honda,2005
 dataset/Honda Accord 2005 exterior/f4bb46b422.jpg,Accord,Honda,2005
 dataset/Honda Accord 2005 exterior/e97ecfd33c.jpg,Accord,Honda,2005
@@ -424,14 +396,10 @@ dataset/Honda Accord 2023 exterior/b33abcf515.jpg,Accord,Honda,2023
 dataset/Honda Accord 2023 exterior/2c94a5ea69.jpg,Accord,Honda,2023
 dataset/Honda Accord 2023 exterior/f415c9f2c0.jpg,Accord,Honda,2023
 dataset/Mitsubishi Lancer 1988 exterior/a219982c73.jpg,Lancer,Mitsubishi,1988
-dataset/Mitsubishi Lancer 1988 exterior/da087a1338.jpg,Lancer,Mitsubishi,1988
-dataset/Mitsubishi Lancer 1988 exterior/7a4ab2ac0e.jpg,Lancer,Mitsubishi,1988
-dataset/Mitsubishi Lancer 1988 exterior/dca98c5cf2.jpg,Lancer,Mitsubishi,1988
 dataset/Mitsubishi Lancer 1988 exterior/ca0068d32c.jpg,Lancer,Mitsubishi,1988
 dataset/Mitsubishi Lancer 1988 exterior/d695e87d99.jpg,Lancer,Mitsubishi,1988
 dataset/Mitsubishi Lancer 1988 exterior/dc2d22795b.jpg,Lancer,Mitsubishi,1988
 dataset/Mitsubishi Lancer 1988 exterior/1de177d967.jpg,Lancer,Mitsubishi,1988
-dataset/Mitsubishi Lancer 1988 exterior/a085322c69.jpg,Lancer,Mitsubishi,1988
 dataset/Mitsubishi Lancer 1988 exterior/e1ebcd0e70.jpg,Lancer,Mitsubishi,1988
 dataset/Mitsubishi Lancer 1988 exterior/a227ced6ea.jpg,Lancer,Mitsubishi,1988
 dataset/Mitsubishi Lancer 1988 exterior/6bbd066a6d.jpg,Lancer,Mitsubishi,1988
@@ -447,40 +415,30 @@ dataset/Mitsubishi Lancer 2005 exterior/b8bcb2cdf1.jpg,Lancer,Mitsubishi,2005
 dataset/Mitsubishi Lancer 2005 exterior/069516398c.jpg,Lancer,Mitsubishi,2005
 dataset/Mitsubishi Lancer 2005 exterior/1e2b57503a.jpg,Lancer,Mitsubishi,2005
 dataset/Mitsubishi Lancer 2005 exterior/383493f924.jpg,Lancer,Mitsubishi,2005
-dataset/Mitsubishi Lancer 2005 exterior/6b63e4b991.jpg,Lancer,Mitsubishi,2005
 dataset/Mitsubishi Lancer 2005 exterior/bf961a39da.jpg,Lancer,Mitsubishi,2005
 dataset/Mitsubishi Lancer 2005 exterior/881e8521dd.jpg,Lancer,Mitsubishi,2005
 dataset/Mitsubishi Lancer 2005 exterior/ff7907d192.jpg,Lancer,Mitsubishi,2005
 dataset/Mitsubishi Lancer 2005 exterior/8bb664d91d.jpg,Lancer,Mitsubishi,2005
-dataset/Mitsubishi Lancer 2005 exterior/5c08498bdc.jpg,Lancer,Mitsubishi,2005
 dataset/Mitsubishi Lancer 2005 exterior/bfc5a87c21.jpg,Lancer,Mitsubishi,2005
-dataset/Mitsubishi Lancer 2005 exterior/f741f62562.jpg,Lancer,Mitsubishi,2005
 dataset/Mitsubishi Lancer 2005 exterior/642b6fb4a8.jpg,Lancer,Mitsubishi,2005
 dataset/Mitsubishi Lancer 2005 exterior/3ecec34977.jpg,Lancer,Mitsubishi,2005
 dataset/Mitsubishi Lancer 2005 exterior/d013f259ec.jpg,Lancer,Mitsubishi,2005
 dataset/Mitsubishi Lancer 2005 exterior/e63ebe5245.jpg,Lancer,Mitsubishi,2005
-dataset/Mitsubishi Lancer 2005 exterior/75d9a9627d.jpg,Lancer,Mitsubishi,2005
 dataset/Mitsubishi Lancer 2005 exterior/b1a26b1194.jpg,Lancer,Mitsubishi,2005
 dataset/Mitsubishi Lancer 2005 exterior/0d61cfdca1.jpg,Lancer,Mitsubishi,2005
-dataset/Mitsubishi Lancer 2023 exterior/e7f520c859.jpg,Lancer,Mitsubishi,2023
 dataset/Mitsubishi Lancer 2023 exterior/30fa007f4a.jpg,Lancer,Mitsubishi,2023
-dataset/Mitsubishi Lancer 2023 exterior/0a3c0926a0.jpg,Lancer,Mitsubishi,2023
 dataset/Mitsubishi Lancer 2023 exterior/8e34c008a1.jpg,Lancer,Mitsubishi,2023
 dataset/Mitsubishi Lancer 2023 exterior/4848861862.jpg,Lancer,Mitsubishi,2023
 dataset/Mitsubishi Lancer 2023 exterior/a8ca140015.jpg,Lancer,Mitsubishi,2023
 dataset/Mitsubishi Lancer 2023 exterior/f6850a0a71.jpg,Lancer,Mitsubishi,2023
 dataset/Mitsubishi Lancer 2023 exterior/4287d2cc11.jpg,Lancer,Mitsubishi,2023
-dataset/Mitsubishi Lancer 2023 exterior/6d0d1f1b0b.jpg,Lancer,Mitsubishi,2023
 dataset/Mitsubishi Lancer 2023 exterior/9499f8b275.jpg,Lancer,Mitsubishi,2023
 dataset/Mitsubishi Lancer 2023 exterior/8b14db08aa.jpg,Lancer,Mitsubishi,2023
 dataset/Mitsubishi Lancer 2023 exterior/09d79c3c2b.jpg,Lancer,Mitsubishi,2023
 dataset/Mitsubishi Lancer 2023 exterior/475fede41f.jpg,Lancer,Mitsubishi,2023
 dataset/Mitsubishi Lancer 2023 exterior/41d114e128.jpg,Lancer,Mitsubishi,2023
-dataset/Mitsubishi Lancer 2023 exterior/7d87a59579.jpg,Lancer,Mitsubishi,2023
 dataset/Mitsubishi Lancer 2023 exterior/8c6c0cdef6.jpg,Lancer,Mitsubishi,2023
 dataset/Mitsubishi Lancer 2023 exterior/7d2de96c6b.jpg,Lancer,Mitsubishi,2023
-dataset/Mitsubishi Lancer 2023 exterior/ca30e2fc7a.jpg,Lancer,Mitsubishi,2023
-dataset/Mitsubishi Lancer 2023 exterior/9fdd4911c9.jpg,Lancer,Mitsubishi,2023
 dataset/Toyota Corolla 1985 exterior sedan/8696ebc4a0.jpg,Corolla,Toyota,1985
 dataset/Toyota Corolla 1985 exterior sedan/a7a11dbbdd.jpg,Corolla,Toyota,1985
 dataset/Toyota Corolla 1985 exterior sedan/a27d52d108.jpg,Corolla,Toyota,1985
@@ -541,7 +499,6 @@ dataset/Chevrolet Impala 1985 exterior/d316c9d278.jpg,Impala,Chevrolet,1985
 dataset/Chevrolet Impala 1985 exterior/879f74c8b9.jpg,Impala,Chevrolet,1985
 dataset/Chevrolet Impala 1985 exterior/fdea858896.jpg,Impala,Chevrolet,1985
 dataset/Chevrolet Impala 1985 exterior/963d8096ce.jpg,Impala,Chevrolet,1985
-dataset/Chevrolet Impala 1985 exterior/ddff986460.jpg,Impala,Chevrolet,1985
 dataset/Chevrolet Impala 1985 exterior/a8795b740e.jpg,Impala,Chevrolet,1985
 dataset/Chevrolet Impala 1985 exterior/a06d832de8.jpg,Impala,Chevrolet,1985
 dataset/Chevrolet Impala 1985 exterior/76de72cc08.jpg,Impala,Chevrolet,1985
@@ -566,7 +523,6 @@ dataset/Chevrolet Impala 1995 exterior/cee7db99c6.jpg,Impala,Chevrolet,1995
 dataset/Chevrolet Impala 1995 exterior/19d3d61256.jpg,Impala,Chevrolet,1995
 dataset/Chevrolet Impala 1995 exterior/26c5a2b370.jpg,Impala,Chevrolet,1995
 dataset/Chevrolet Impala 1995 exterior/3becb8b87a.jpg,Impala,Chevrolet,1995
-dataset/Chevrolet Impala 2005 exterior/dc70892c68.jpg,Impala,Chevrolet,2005
 dataset/Chevrolet Impala 2005 exterior/1f4100a1dc.jpg,Impala,Chevrolet,2005
 dataset/Chevrolet Impala 2005 exterior/3da2dff6b2.jpg,Impala,Chevrolet,2005
 dataset/Chevrolet Impala 2005 exterior/abf79b3ec5.jpg,Impala,Chevrolet,2005
@@ -593,7 +549,6 @@ dataset/Chevrolet Malibu 2005 exterior/ce47332782.jpg,Malibu,Chevrolet,2005
 dataset/Chevrolet Malibu 2005 exterior/84d8637596.jpg,Malibu,Chevrolet,2005
 dataset/Chevrolet Malibu 2005 exterior/5485f9a794.jpg,Malibu,Chevrolet,2005
 dataset/Chevrolet Malibu 2005 exterior/4c5e3370ce.jpg,Malibu,Chevrolet,2005
-dataset/Chevrolet Malibu 2005 exterior/e07256abea.jpg,Malibu,Chevrolet,2005
 dataset/Chevrolet Malibu 2005 exterior/6546e47f4b.jpg,Malibu,Chevrolet,2005
 dataset/Chevrolet Malibu 2015 exterior/089c18264f.jpg,Malibu,Chevrolet,2015
 dataset/Chevrolet Malibu 2015 exterior/8abd25125c.jpg,Malibu,Chevrolet,2015
@@ -900,7 +855,6 @@ dataset/Mazda Axela 2015 exterior sedan/3022527f5b.jpg,Axela,Mazda,2015
 dataset/Mazda Axela 2023 exterior sedan/52194a9328.jpg,Axela,Mazda,2023
 dataset/Mazda Axela 2023 exterior sedan/b9d00fdbfc.jpg,Axela,Mazda,2023
 dataset/Mazda Axela 2023 exterior sedan/13a6bccc04.jpg,Axela,Mazda,2023
-dataset/Mazda Axela 2023 exterior sedan/03dfc0111a.jpg,Axela,Mazda,2023
 dataset/Mazda Axela 2023 exterior sedan/193d20cf7e.jpg,Axela,Mazda,2023
 dataset/Mazda Axela 2023 exterior sedan/e25a68a8d6.jpg,Axela,Mazda,2023
 dataset/Mazda Axela 2023 exterior sedan/c5faf8b9a7.jpg,Axela,Mazda,2023
@@ -928,7 +882,6 @@ dataset/Kia Optima 2003 exterior/77f4c3acd2.jpg,Optima,Kia,2003
 dataset/Kia Optima 2003 exterior/99efdf9087.jpg,Optima,Kia,2003
 dataset/Kia Optima 2003 exterior/910df8c4fa.jpg,Optima,Kia,2003
 dataset/Kia Optima 2003 exterior/bbbc5ba1fe.jpg,Optima,Kia,2003
-dataset/Kia Optima 2003 exterior/175d04ac88.jpg,Optima,Kia,2003
 dataset/Kia Optima 2003 exterior/3c0fe1e64c.jpg,Optima,Kia,2003
 dataset/Kia Optima 2003 exterior/ee86443740.jpg,Optima,Kia,2003
 dataset/Kia Optima 2003 exterior/ef9b73ccc6.jpg,Optima,Kia,2003
@@ -954,22 +907,15 @@ dataset/Hyundai Sonata 1990 exterior/22081cd72c.jpg,Sonata,Hyundai,1990
 dataset/Hyundai Sonata 1990 exterior/6fe5561733.jpg,Sonata,Hyundai,1990
 dataset/Hyundai Sonata 1990 exterior/81cea12ca2.jpg,Sonata,Hyundai,1990
 dataset/Hyundai Sonata 1990 exterior/7d3660f711.jpg,Sonata,Hyundai,1990
-dataset/Hyundai Sonata 1990 exterior/fdfcd3a5a8.jpg,Sonata,Hyundai,1990
 dataset/Hyundai Sonata 1990 exterior/4fe019c4c0.jpg,Sonata,Hyundai,1990
 dataset/Hyundai Sonata 1990 exterior/415868ab4f.jpg,Sonata,Hyundai,1990
 dataset/Hyundai Sonata 1990 exterior/dc31edd75f.jpg,Sonata,Hyundai,1990
 dataset/Hyundai Sonata 1990 exterior/e2357c4f38.jpg,Sonata,Hyundai,1990
-dataset/Hyundai Sonata 1990 exterior/a9e4bcf5e7.jpg,Sonata,Hyundai,1990
-dataset/Hyundai Sonata 1990 exterior/0761b6949c.jpg,Sonata,Hyundai,1990
-dataset/Hyundai Sonata 1990 exterior/4a6129b6ec.jpg,Sonata,Hyundai,1990
-dataset/Hyundai Sonata 1995 exterior/88ca4a85a4.jpg,Sonata,Hyundai,1995
 dataset/Hyundai Sonata 1995 exterior/75d790f0cc.jpg,Sonata,Hyundai,1995
 dataset/Hyundai Sonata 1995 exterior/9470f9c43e.jpg,Sonata,Hyundai,1995
 dataset/Hyundai Sonata 1995 exterior/ecbc83caf0.jpg,Sonata,Hyundai,1995
 dataset/Hyundai Sonata 1995 exterior/5f32b04f65.jpg,Sonata,Hyundai,1995
-dataset/Hyundai Sonata 1995 exterior/80bbc3e4fb.jpg,Sonata,Hyundai,1995
 dataset/Hyundai Sonata 1995 exterior/335df2daf6.jpg,Sonata,Hyundai,1995
-dataset/Hyundai Sonata 1995 exterior/a6d3622c8c.jpg,Sonata,Hyundai,1995
 dataset/Hyundai Sonata 1995 exterior/9089f53cee.jpg,Sonata,Hyundai,1995
 dataset/Hyundai Sonata 1995 exterior/ed007d58aa.jpg,Sonata,Hyundai,1995
 dataset/Hyundai Sonata 1995 exterior/06516a2aad.jpg,Sonata,Hyundai,1995
@@ -983,11 +929,11 @@ dataset/Hyundai Sonata 2015 exterior/b47dded8fe.jpg,Sonata,Hyundai,2015
 dataset/Hyundai Sonata 2015 exterior/bef014fc47.jpg,Sonata,Hyundai,2015
 dataset/Hyundai Sonata 2015 exterior/d09465ae8e.jpg,Sonata,Hyundai,2015
 dataset/Hyundai Sonata 2015 exterior/60449015a5.jpg,Sonata,Hyundai,2015
-dataset/Hyundai Sonata 2015 exterior/d772b32780.jpg,Sonata,Hyundai,2015
 dataset/Hyundai Sonata 2015 exterior/93b31ff8d4.jpg,Sonata,Hyundai,2015
 dataset/Hyundai Sonata 2015 exterior/c8a26cc1c5.jpg,Sonata,Hyundai,2015
 dataset/Hyundai Sonata 2015 exterior/d033f70eb0.jpg,Sonata,Hyundai,2015
 dataset/Hyundai Sonata 2015 exterior/0fd7eb349d.jpg,Sonata,Hyundai,2015
+dataset/Hyundai Sonata 2023 exterior/a6d3622c8c.jpg,Sonata,Hyundai,2023
 dataset/Hyundai Sonata 2023 exterior/11eb86c105.jpg,Sonata,Hyundai,2023
 dataset/Hyundai Sonata 2023 exterior/331d4cd199.jpg,Sonata,Hyundai,2023
 dataset/Hyundai Sonata 2023 exterior/673c65be3d.jpg,Sonata,Hyundai,2023
@@ -1026,7 +972,6 @@ dataset/Dodge ChargerSRT 2015 exterior/d7b0bf6a2b.jpg,ChargerSRT,Dodge,2015
 dataset/Dodge ChargerSRT 2015 exterior/7736098a1e.jpg,ChargerSRT,Dodge,2015
 dataset/Dodge ChargerSRT 2015 exterior/ec610c1ebc.jpg,ChargerSRT,Dodge,2015
 dataset/Dodge ChargerSRT 2015 exterior/ddbf6e46e3.jpg,ChargerSRT,Dodge,2015
-dataset/Dodge ChargerSRT 2015 exterior/316eb181cb.jpg,ChargerSRT,Dodge,2015
 dataset/Dodge ChargerSRT 2015 exterior/c9d322579a.jpg,ChargerSRT,Dodge,2015
 dataset/Dodge ChargerSRT 2015 exterior/cb9d8a7814.jpg,ChargerSRT,Dodge,2015
 dataset/Dodge ChargerSRT 2015 exterior/755bc3f216.jpg,ChargerSRT,Dodge,2015
@@ -1070,13 +1015,10 @@ dataset/Buick Regal 1995 exterior/caa3148c65.jpg,Regal,Buick,1995
 dataset/Buick Regal 1995 exterior/98aa7c9203.jpg,Regal,Buick,1995
 dataset/Buick Regal 1995 exterior/3f5ef53692.jpg,Regal,Buick,1995
 dataset/Buick Regal 1995 exterior/434895af34.jpg,Regal,Buick,1995
-dataset/Buick Regal 1995 exterior/cb86f2e742.jpg,Regal,Buick,1995
 dataset/Buick Regal 1995 exterior/d50c40b502.jpg,Regal,Buick,1995
-dataset/Buick Regal 2003 exterior/5d049a7758.jpg,Regal,Buick,2003
 dataset/Buick Regal 2003 exterior/d27a0e146f.jpg,Regal,Buick,2003
 dataset/Buick Regal 2003 exterior/6797ef2e22.jpg,Regal,Buick,2003
 dataset/Buick Regal 2003 exterior/180065a907.jpg,Regal,Buick,2003
-dataset/Buick Regal 2003 exterior/1efb23d01b.jpg,Regal,Buick,2003
 dataset/Buick Regal 2003 exterior/f5773d3dc6.jpg,Regal,Buick,2003
 dataset/Buick Regal 2003 exterior/55908fe534.jpg,Regal,Buick,2003
 dataset/Buick Regal 2003 exterior/39cecabc32.jpg,Regal,Buick,2003
