@@ -1,6 +1,5 @@
 dataset/toyota camry 1985 exterior/f09d9483c8.jpg,camry,toyota,1985
 dataset/toyota camry 1985 exterior/184e96f8fe.jpg,camry,toyota,1985
-dataset/toyota camry 1985 exterior/a2152411c8.jpg,camry,toyota,1985
 dataset/toyota camry 1985 exterior/d7f22f0f55.jpg,camry,toyota,1985
 dataset/toyota camry 1985 exterior/efea4bc06a.jpg,camry,toyota,1985
 dataset/toyota camry 1985 exterior/fda182e016.jpg,camry,toyota,1985
@@ -9,7 +8,6 @@ dataset/toyota camry 1985 exterior/bf9006600e.jpg,camry,toyota,1985
 dataset/toyota camry 1985 exterior/ea31b7e3f8.jpg,camry,toyota,1985
 dataset/toyota camry 1985 exterior/cadb50887a.jpg,camry,toyota,1985
 dataset/toyota camry 1985 exterior/f91ed7bf0f.jpg,camry,toyota,1985
-dataset/toyota camry 1985 exterior/35a220d832.jpg,camry,toyota,1985
 dataset/toyota camry 1985 exterior/53b72df08d.jpg,camry,toyota,1985
 dataset/toyota camry 1985 exterior/94b227731d.jpg,camry,toyota,1985
 dataset/toyota camry 1985 exterior/714ea4d0f3.jpg,camry,toyota,1985
@@ -252,15 +250,11 @@ dataset/Hyundai Elantra 2023 exterior/7d18adf555.jpg,Elantra,Hyundai,2023
 dataset/Hyundai Elantra 2023 exterior/8802390f2f.jpg,Elantra,Hyundai,2023
 dataset/Hyundai Elantra 2023 exterior/7428dd81f9.jpg,Elantra,Hyundai,2023
 dataset/Hyundai Elantra 2023 exterior/353db74c19.jpg,Elantra,Hyundai,2023
-dataset/Volkswagon Passat 1985 exterior/db492bd21d.jpg,Passat,Volkswagon,1985
 dataset/Volkswagon Passat 1985 exterior/4188d06b44.jpg,Passat,Volkswagon,1985
-dataset/Volkswagon Passat 1985 exterior/ca05622705.jpg,Passat,Volkswagon,1985
+dataset/Volkswagon Passat 2023 exterior/ca05622705.jpg,Passat,Volkswagon,2023
 dataset/Volkswagon Passat 1985 exterior/7552e5f018.jpg,Passat,Volkswagon,1985
-dataset/Volkswagon Passat 1985 exterior/05dd9ae07e.jpg,Passat,Volkswagon,1985
+dataset/Volkswagon Passat 2015 exterior/05dd9ae07e.jpg,Passat,Volkswagon,2015
 dataset/Volkswagon Passat 1985 exterior/5c74d4921f.jpg,Passat,Volkswagon,1985
-dataset/Volkswagon Passat 1985 exterior/db95c294bd.jpg,Passat,Volkswagon,1985
-dataset/Volkswagon Passat 1985 exterior/2b481ce54e.jpg,Passat,Volkswagon,1985
-dataset/Volkswagon Passat 1985 exterior/06a1a83487.jpg,Passat,Volkswagon,1985
 dataset/Volkswagon Passat 1985 exterior/c1f5aabf59.jpg,Passat,Volkswagon,1985
 dataset/Volkswagon Passat 1985 exterior/6de108011d.jpg,Passat,Volkswagon,1985
 dataset/Volkswagon Passat 1985 exterior/d0c2b44bd8.jpg,Passat,Volkswagon,1985
@@ -269,14 +263,16 @@ dataset/Volkswagon Passat 1985 exterior/bea96a8956.jpg,Passat,Volkswagon,1985
 dataset/Volkswagon Passat 1985 exterior/29829f35b8.jpg,Passat,Volkswagon,1985
 dataset/Volkswagon Passat 1985 exterior/9a94416aec.jpg,Passat,Volkswagon,1985
 dataset/Volkswagon Passat 1985 exterior/756fdad250.jpg,Passat,Volkswagon,1985
-dataset/Volkswagon Passat 1985 exterior/2503fc5074.jpg,Passat,Volkswagon,1985
 dataset/Volkswagon Passat 1985 exterior/dcac22b025.jpg,Passat,Volkswagon,1985
-dataset/Volkswagon Passat 1985 exterior/d9b131f995.jpg,Passat,Volkswagon,1985
+dataset/Volkswagon Passat 2015 exterior/db95c294bd.jpg,Passat,Volkswagon,2015
+dataset/Volkswagon Passat 2015 exterior/2b481ce54e.jpg,Passat,Volkswagon,2015
+dataset/Volkswagon Passat 2015 exterior/2503fc5074.jpg,Passat,Volkswagon,2015
+dataset/Volkswagon Passat 2015 exterior/d9b131f995.jpg,Passat,Volkswagon,2015
 dataset/Volkswagon Passat 2015 exterior/d3ef731b70.jpg,Passat,Volkswagon,2015
 dataset/Volkswagon Passat 2015 exterior/7eadb20308.jpg,Passat,Volkswagon,2015
 dataset/Volkswagon Passat 2015 exterior/a4aa3038a6.jpg,Passat,Volkswagon,2015
 dataset/Volkswagon Passat 2015 exterior/f8290683d1.jpg,Passat,Volkswagon,2015
-dataset/Volkswagon Passat 2015 exterior/65c6cf0f25.jpg,Passat,Volkswagon,2015
+dataset/Volkswagon Passat 2015 exterior/db492bd21d.jpg,Passat,Volkswagon,2015
 dataset/Volkswagon Passat 2015 exterior/615bb0baf7.jpg,Passat,Volkswagon,2015
 dataset/Volkswagon Passat 2015 exterior/aa0c1b48d1.jpg,Passat,Volkswagon,2015
 dataset/Volkswagon Passat 2015 exterior/b7f3944c86.jpg,Passat,Volkswagon,2015
@@ -305,6 +301,7 @@ dataset/Volkswagon Passat 2023 exterior/54ec51a463.jpg,Passat,Volkswagon,2023
 dataset/Volkswagon Passat 2023 exterior/a6fd8ff4a5.jpg,Passat,Volkswagon,2023
 dataset/Volkswagon Passat 2023 exterior/5be23696fd.jpg,Passat,Volkswagon,2023
 dataset/Volkswagon Passat 2023 exterior/4ac7215f84.jpg,Passat,Volkswagon,2023
+dataset/Volkswagon Passat 2023 exterior/65c6cf0f25.jpg,Passat,Volkswagon,2023
 dataset/Honda Accord 1985 exterior/0558333697.jpg,Accord,Honda,1985
 dataset/Honda Accord 1985 exterior/0a6b30bd31.jpg,Accord,Honda,1985
 dataset/Honda Accord 1985 exterior/701015d153.jpg,Accord,Honda,1985
@@ -446,7 +443,6 @@ dataset/Toyota Corolla 1985 exterior sedan/ea3ea3cb54.jpg,Corolla,Toyota,1985
 dataset/Toyota Corolla 1985 exterior sedan/1824eb4130.jpg,Corolla,Toyota,1985
 dataset/Toyota Corolla 1985 exterior sedan/539df906fa.jpg,Corolla,Toyota,1985
 dataset/Toyota Corolla 1985 exterior sedan/f3b58de695.jpg,Corolla,Toyota,1985
-dataset/Toyota Corolla 1985 exterior sedan/c6b0f4f76b.jpg,Corolla,Toyota,1985
 dataset/Toyota Corolla 1985 exterior sedan/63a3ff104e.jpg,Corolla,Toyota,1985
 dataset/Toyota Corolla 1985 exterior sedan/e42029b446.jpg,Corolla,Toyota,1985
 dataset/Toyota Corolla 1985 exterior sedan/fa53d99513.jpg,Corolla,Toyota,1985
@@ -474,7 +470,6 @@ dataset/Toyota Corolla 2015 exterior sedan/c2c9f91fb5.jpg,Corolla,Toyota,2015
 dataset/Toyota Corolla 2023 exterior sedan/e529146eef.jpg,Corolla,Toyota,2023
 dataset/Toyota Corolla 2023 exterior sedan/a64169b9cb.jpg,Corolla,Toyota,2023
 dataset/Toyota Corolla 2023 exterior sedan/7ff873bf12.jpg,Corolla,Toyota,2023
-dataset/Toyota Corolla 2023 exterior sedan/46b9bccb53.jpg,Corolla,Toyota,2023
 dataset/Toyota Corolla 2023 exterior sedan/c718f49b0b.jpg,Corolla,Toyota,2023
 dataset/Toyota Corolla 2023 exterior sedan/f7f26b4f69.jpg,Corolla,Toyota,2023
 dataset/Toyota Corolla 2023 exterior sedan/2c5bef144c.jpg,Corolla,Toyota,2023
@@ -576,7 +571,6 @@ dataset/Subaru Legacy 1999 exterior/00e2333dac.jpg,Legacy,Subaru,1999
 dataset/Subaru Legacy 1999 exterior/0423d6cd1c.jpg,Legacy,Subaru,1999
 dataset/Subaru Legacy 1999 exterior/f53ee59d7a.jpg,Legacy,Subaru,1999
 dataset/Subaru Legacy 1999 exterior/6501c50f1b.jpg,Legacy,Subaru,1999
-dataset/Subaru Legacy 1999 exterior/a2697d1e15.jpg,Legacy,Subaru,1999
 dataset/Subaru Legacy 1999 exterior/3765f51f5d.jpg,Legacy,Subaru,1999
 dataset/Subaru Legacy 1999 exterior/f33dacdfc5.jpg,Legacy,Subaru,1999
 dataset/Subaru Legacy 1999 exterior/53f01a437c.jpg,Legacy,Subaru,1999
@@ -586,7 +580,6 @@ dataset/Subaru Legacy 1999 exterior/287b5edb97.jpg,Legacy,Subaru,1999
 dataset/Subaru Legacy 2005 exterior/e0b5e96a7a.jpg,Legacy,Subaru,2005
 dataset/Subaru Legacy 2005 exterior/0ce00155e0.jpg,Legacy,Subaru,2005
 dataset/Subaru Legacy 2005 exterior/6c7f68854e.jpg,Legacy,Subaru,2005
-dataset/Subaru Legacy 2005 exterior/a8fe554b78.jpg,Legacy,Subaru,2005
 dataset/Subaru Legacy 2005 exterior/ed18990a4f.jpg,Legacy,Subaru,2005
 dataset/Subaru Legacy 2005 exterior/d83270c2c1.jpg,Legacy,Subaru,2005
 dataset/Subaru Legacy 2005 exterior/2da00a6ddc.jpg,Legacy,Subaru,2005
@@ -609,7 +602,6 @@ dataset/Subaru Legacy 2015 exterior/63e17fdaba.jpg,Legacy,Subaru,2015
 dataset/Subaru Legacy 2015 exterior/a39886140a.jpg,Legacy,Subaru,2015
 dataset/Subaru Legacy 2015 exterior/8dd36635c9.jpg,Legacy,Subaru,2015
 dataset/Subaru Legacy 2015 exterior/c236de6d7e.jpg,Legacy,Subaru,2015
-dataset/Subaru Legacy 2015 exterior/a0e38f35f9.jpg,Legacy,Subaru,2015
 dataset/Subaru Legacy 2015 exterior/31168dced3.jpg,Legacy,Subaru,2015
 dataset/Subaru Legacy 2015 exterior/ab8a8201f9.jpg,Legacy,Subaru,2015
 dataset/Subaru Legacy 2015 exterior/f69264db7d.jpg,Legacy,Subaru,2015
@@ -618,7 +610,6 @@ dataset/Subaru Legacy 2023 exterior/99ae744d94.jpg,Legacy,Subaru,2023
 dataset/Subaru Legacy 2023 exterior/cd312130c9.jpg,Legacy,Subaru,2023
 dataset/Subaru Legacy 2023 exterior/6c8a0d8505.jpg,Legacy,Subaru,2023
 dataset/Subaru Legacy 2023 exterior/a99d2909a0.jpg,Legacy,Subaru,2023
-dataset/Subaru Legacy 2023 exterior/e29892b552.jpg,Legacy,Subaru,2023
 dataset/Subaru Legacy 2023 exterior/a4fa7d5705.jpg,Legacy,Subaru,2023
 dataset/Subaru Legacy 2023 exterior/5a1ec93317.jpg,Legacy,Subaru,2023
 dataset/Subaru Legacy 2023 exterior/0ce0725fcc.jpg,Legacy,Subaru,2023
@@ -640,8 +631,6 @@ dataset/Volkswagan Jetta 1985 exterior/3f89d34e9e.jpg,Jetta,Volkswagan,1985
 dataset/Volkswagan Jetta 1985 exterior/5bd769404b.jpg,Jetta,Volkswagan,1985
 dataset/Volkswagan Jetta 1985 exterior/f1f8ad4fe2.jpg,Jetta,Volkswagan,1985
 dataset/Volkswagan Jetta 1985 exterior/fe21f7839a.jpg,Jetta,Volkswagan,1985
-dataset/Volkswagan Jetta 1985 exterior/0f41ff3e5d.jpg,Jetta,Volkswagan,1985
-dataset/Volkswagan Jetta 1985 exterior/084f348f95.jpg,Jetta,Volkswagan,1985
 dataset/Volkswagan Jetta 1985 exterior/ce08009500.jpg,Jetta,Volkswagan,1985
 dataset/Volkswagan Jetta 1985 exterior/7137a26df4.jpg,Jetta,Volkswagan,1985
 dataset/Volkswagan Jetta 1985 exterior/bd0fc9eee7.jpg,Jetta,Volkswagan,1985
@@ -668,7 +657,6 @@ dataset/Volkswagan Jetta 2005 exterior/cc8298c60c.jpg,Jetta,Volkswagan,2005
 dataset/Volkswagan Jetta 2005 exterior/9cbd1f7c06.jpg,Jetta,Volkswagan,2005
 dataset/Volkswagan Jetta 2005 exterior/0d03051126.jpg,Jetta,Volkswagan,2005
 dataset/Volkswagan Jetta 2005 exterior/495cc0a79e.jpg,Jetta,Volkswagan,2005
-dataset/Volkswagan Jetta 2005 exterior/fab55e4112.jpg,Jetta,Volkswagan,2005
 dataset/Volkswagan Jetta 2005 exterior/16e9b228a2.jpg,Jetta,Volkswagan,2005
 dataset/Volkswagan Jetta 2005 exterior/ddfa25291d.jpg,Jetta,Volkswagan,2005
 dataset/Volkswagan Jetta 2005 exterior/3b2b47486d.jpg,Jetta,Volkswagan,2005
@@ -698,13 +686,13 @@ dataset/Volkswagan Jetta 2023 exterior/0c6f7f94f9.jpg,Jetta,Volkswagan,2023
 dataset/Volkswagan Jetta 2023 exterior/4da5d64810.jpg,Jetta,Volkswagan,2023
 dataset/Volkswagan Jetta 2023 exterior/1e92b15f14.jpg,Jetta,Volkswagan,2023
 dataset/Volkswagan Jetta 2023 exterior/4496cd7a00.jpg,Jetta,Volkswagan,2023
-dataset/Volkswagan Jetta 2023 exterior/3122b152cc.jpg,Jetta,Volkswagan,2023
 dataset/Volkswagan Jetta 2023 exterior/a459a388ce.jpg,Jetta,Volkswagan,2023
 dataset/Volkswagan Jetta 2023 exterior/c9d7fce8c7.jpg,Jetta,Volkswagan,2023
 dataset/Volkswagan Jetta 2023 exterior/a512cda445.jpg,Jetta,Volkswagan,2023
 dataset/Volkswagan Jetta 2023 exterior/d20e6dda83.jpg,Jetta,Volkswagan,2023
 dataset/Volkswagan Jetta 2023 exterior/8e63f22c83.jpg,Jetta,Volkswagan,2023
 dataset/Volkswagan Jetta 2023 exterior/feee41e2f5.jpg,Jetta,Volkswagan,2023
+dataset/Volkswagan Jetta 2023 exterior/0f41ff3e5d.jpg,Jetta,Volkswagan,2023
 dataset/Acura Integra 1995 exterior/6cc5be2eb5.jpg,Integra,Acura,1995
 dataset/Acura Integra 1995 exterior/4add62ed3c.jpg,Integra,Acura,1995
 dataset/Acura Integra 1995 exterior/72250ada4c.jpg,Integra,Acura,1995
@@ -786,17 +774,14 @@ dataset/Nissan Maxima 2000 exterior/b7f7f108a1.jpg,Maxima,Nissan,2000
 dataset/Nissan Maxima 2000 exterior/b7490d045b.jpg,Maxima,Nissan,2000
 dataset/Nissan Maxima 2000 exterior/f1a80b8137.jpg,Maxima,Nissan,2000
 dataset/Nissan Maxima 2000 exterior/855bc505a2.jpg,Maxima,Nissan,2000
-dataset/Nissan Maxima 2000 exterior/b08d864c59.jpg,Maxima,Nissan,2000
 dataset/Nissan Maxima 2000 exterior/13066391b8.jpg,Maxima,Nissan,2000
 dataset/Nissan Maxima 2000 exterior/d11aa7aeb5.jpg,Maxima,Nissan,2000
 dataset/Nissan Maxima 2000 exterior/15d05f9fe2.jpg,Maxima,Nissan,2000
-dataset/Nissan Maxima 2000 exterior/e9149c9ab2.jpg,Maxima,Nissan,2000
 dataset/Nissan Maxima 2000 exterior/c4a8e64225.jpg,Maxima,Nissan,2000
 dataset/Nissan Maxima 2000 exterior/36a4d6db53.jpg,Maxima,Nissan,2000
 dataset/Nissan Maxima 2000 exterior/e6ad0e85c9.jpg,Maxima,Nissan,2000
 dataset/Nissan Maxima 2000 exterior/8cea34b9f0.jpg,Maxima,Nissan,2000
 dataset/Nissan Maxima 2000 exterior/8c0426374e.jpg,Maxima,Nissan,2000
-dataset/Nissan Maxima 2000 exterior/ad7b5e2c38.jpg,Maxima,Nissan,2000
 dataset/Nissan Maxima 2000 exterior/40b6218b02.jpg,Maxima,Nissan,2000
 dataset/Nissan Maxima 2000 exterior/ff009f97f2.jpg,Maxima,Nissan,2000
 dataset/Nissan Maxima 2005 exterior/db967711b4.jpg,Maxima,Nissan,2005
