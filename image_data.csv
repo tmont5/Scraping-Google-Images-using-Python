@@ -1014,4 +1014,265 @@ dataset/Buick Regal 2003 exterior/5cede77cb2.jpg,Regal,Buick,2003
 dataset/Buick Regal 2003 exterior/6cfb31fea7.jpg,Regal,Buick,2003
 dataset/Buick Regal 2003 exterior/0f0e32b64c.jpg,Regal,Buick,2003
 dataset/Buick Regal 2003 exterior/212f020be2.jpg,Regal,Buick,2003
-dataset/Buick Regal 2003 exterior/1cfe65eb0b.jpg,Regal,Buick,2003
+dataset/Buick Regal 2003 exterior/1cfe65eb0b.jpg,Regal,Buick,2003dataset/toyota camry 1995 exterior/d71b0ecc11.jpg,camry,toyota,1995
+dataset/toyota camry 1995 exterior/c458887874.jpg,camry,toyota,1995
+dataset/toyota camry 1995 exterior/fad07b20fe.jpg,camry,toyota,1995
+dataset/toyota camry 1995 exterior/50de5fb1b7.jpg,camry,toyota,1995
+dataset/toyota camry 1995 exterior/6eb46f27c5.jpg,camry,toyota,1995
+dataset/toyota camry 1995 exterior/a68c38c3ed.jpg,camry,toyota,1995
+dataset/toyota camry 1995 exterior/35e69bf2b9.jpg,camry,toyota,1995
+dataset/toyota camry 1995 exterior/15615d7438.jpg,camry,toyota,1995
+dataset/toyota camry 1995 exterior/8933131309.jpg,camry,toyota,1995
+dataset/toyota camry 1995 exterior/0302502727.jpg,camry,toyota,1995
+dataset/toyota camry 1995 exterior/c93f8a7bb9.jpg,camry,toyota,1995
+dataset/toyota camry 1995 exterior/3342704822.jpg,camry,toyota,1995
+dataset/toyota camry 1995 exterior/b25485f33c.jpg,camry,toyota,1995
+dataset/toyota camry 1995 exterior/11cf61aab3.jpg,camry,toyota,1995
+dataset/toyota camry 1995 exterior/53f0a01344.jpg,camry,toyota,1995
+dataset/toyota camry 1995 exterior/9e1068ae4f.jpg,camry,toyota,1995
+dataset/toyota camry 1995 exterior/473b7ce96f.jpg,camry,toyota,1995
+dataset/toyota camry 1995 exterior/ac0c3f0ff7.jpg,camry,toyota,1995
+dataset/BMW M3 Sedan 1988 exterior/432895c7bf.jpg,M3,BMW,Sedan
+dataset/BMW M3 Sedan 1988 exterior/269e37031f.jpg,M3,BMW,Sedan
+dataset/BMW M3 Sedan 1988 exterior/2e141a61d8.jpg,M3,BMW,Sedan
+dataset/BMW M3 Sedan 1988 exterior/3e02e3ce3a.jpg,M3,BMW,Sedan
+dataset/BMW M3 Sedan 1988 exterior/6c779aacf3.jpg,M3,BMW,Sedan
+dataset/BMW M3 Sedan 1988 exterior/799c71d7df.jpg,M3,BMW,Sedan
+dataset/BMW M3 Sedan 1988 exterior/2065ad5bb1.jpg,M3,BMW,Sedan
+dataset/BMW M3 Sedan 1988 exterior/d5a3a43752.jpg,M3,BMW,Sedan
+dataset/BMW M3 Sedan 1988 exterior/1c74109363.jpg,M3,BMW,Sedan
+dataset/BMW M3 Sedan 1988 exterior/59e374fa46.jpg,M3,BMW,Sedan
+dataset/BMW M3 Sedan 1988 exterior/951b12cd12.jpg,M3,BMW,Sedan
+dataset/BMW M3 Sedan 1988 exterior/a242555cb4.jpg,M3,BMW,Sedan
+dataset/BMW M3 Sedan 1988 exterior/3454b52758.jpg,M3,BMW,Sedan
+dataset/BMW M3 Sedan 1988 exterior/fd455a6128.jpg,M3,BMW,Sedan
+dataset/BMW M3 Sedan 1988 exterior/493e7a0af2.jpg,M3,BMW,Sedan
+dataset/BMW M3 Sedan 1988 exterior/ddacd303be.jpg,M3,BMW,Sedan
+dataset/BMW M3 Sedan 1988 exterior/bb95db54d4.jpg,M3,BMW,Sedan
+dataset/BMW M3 Sedan 2005 exterior/c9cd656d91.jpg,M3,BMW,Sedan
+dataset/BMW M3 Sedan 2005 exterior/4fa6a31a60.jpg,M3,BMW,Sedan
+dataset/BMW M3 Sedan 2005 exterior/511b5ec8e3.jpg,M3,BMW,Sedan
+dataset/BMW M3 Sedan 2005 exterior/228b4cd34b.jpg,M3,BMW,Sedan
+dataset/BMW M3 Sedan 2005 exterior/6679d70853.jpg,M3,BMW,Sedan
+dataset/BMW M3 Sedan 2005 exterior/146e918011.jpg,M3,BMW,Sedan
+dataset/BMW M3 Sedan 2005 exterior/fcf6308c2d.jpg,M3,BMW,Sedan
+dataset/BMW M3 Sedan 2005 exterior/268e42294b.jpg,M3,BMW,Sedan
+dataset/BMW M3 Sedan 2005 exterior/f78d1e7083.jpg,M3,BMW,Sedan
+dataset/BMW M3 Sedan 2005 exterior/ea6e432914.jpg,M3,BMW,Sedan
+dataset/BMW M3 Sedan 2005 exterior/ea22446bf4.jpg,M3,BMW,Sedan
+dataset/BMW M3 Sedan 2005 exterior/05162809c9.jpg,M3,BMW,Sedan
+dataset/BMW M3 Sedan 2005 exterior/3fb10f6a79.jpg,M3,BMW,Sedan
+dataset/BMW M3 Sedan 2005 exterior/ac2a37bee8.jpg,M3,BMW,Sedan
+dataset/BMW M3 Sedan 2005 exterior/c48f852605.jpg,M3,BMW,Sedan
+dataset/BMW M3 Sedan 2005 exterior/395a43182e.jpg,M3,BMW,Sedan
+dataset/BMW M3 Sedan 2005 exterior/8f36555d36.jpg,M3,BMW,Sedan
+dataset/BMW M3 Sedan 2005 exterior/97d1770300.jpg,M3,BMW,Sedan
+dataset/Lexus LS 1989 exterior/6257d1aadd.jpg,LS,Lexus,1989
+dataset/Lexus LS 1989 exterior/356100ab32.jpg,LS,Lexus,1989
+dataset/Lexus LS 1989 exterior/318c5b7ef4.jpg,LS,Lexus,1989
+dataset/Lexus LS 1989 exterior/e44a0b06f1.jpg,LS,Lexus,1989
+dataset/Lexus LS 1989 exterior/3da25747e3.jpg,LS,Lexus,1989
+dataset/Lexus LS 1989 exterior/4b372d16d4.jpg,LS,Lexus,1989
+dataset/Lexus LS 1989 exterior/9b8cbc0ebf.jpg,LS,Lexus,1989
+dataset/Lexus LS 1989 exterior/1ed111681d.jpg,LS,Lexus,1989
+dataset/Lexus LS 1989 exterior/fda56eb409.jpg,LS,Lexus,1989
+dataset/Lexus LS 1989 exterior/cbf3461604.jpg,LS,Lexus,1989
+dataset/Lexus LS 1989 exterior/46b6c7f0fa.jpg,LS,Lexus,1989
+dataset/Lexus LS 1989 exterior/0978a79da7.jpg,LS,Lexus,1989
+dataset/Lexus LS 1989 exterior/c0a39b0c7d.jpg,LS,Lexus,1989
+dataset/Lexus LS 1989 exterior/7b32da537c.jpg,LS,Lexus,1989
+dataset/Lexus LS 1989 exterior/3757f47989.jpg,LS,Lexus,1989
+dataset/Lexus LS 1989 exterior/01d028a3cc.jpg,LS,Lexus,1989
+dataset/Lexus LS 1989 exterior/8d87947b42.jpg,LS,Lexus,1989
+dataset/Lexus LS 1989 exterior/4da0040b2e.jpg,LS,Lexus,1989
+dataset/Lexus LS 1989 exterior/2c54e2a96d.jpg,LS,Lexus,1989
+dataset/Lexus LS 1989 exterior/d364bd8baf.jpg,LS,Lexus,1989
+dataset/Hyundai Elantra 1995 exterior/658ed09621.jpg,Elantra,Hyundai,1995
+dataset/Hyundai Elantra 1995 exterior/e82674928d.jpg,Elantra,Hyundai,1995
+dataset/Hyundai Elantra 1995 exterior/c44b957840.jpg,Elantra,Hyundai,1995
+dataset/Hyundai Elantra 1995 exterior/c2b08d884f.jpg,Elantra,Hyundai,1995
+dataset/Hyundai Elantra 1995 exterior/86b3e92ed3.jpg,Elantra,Hyundai,1995
+dataset/Hyundai Elantra 1995 exterior/d9dbb3f106.jpg,Elantra,Hyundai,1995
+dataset/Hyundai Elantra 1995 exterior/554bab0408.jpg,Elantra,Hyundai,1995
+dataset/Hyundai Elantra 1995 exterior/a379c10c6b.jpg,Elantra,Hyundai,1995
+dataset/Hyundai Elantra 1995 exterior/61943d2f75.jpg,Elantra,Hyundai,1995
+dataset/Hyundai Elantra 1995 exterior/a117539b79.jpg,Elantra,Hyundai,1995
+dataset/Hyundai Elantra 1995 exterior/86f26320af.jpg,Elantra,Hyundai,1995
+dataset/Hyundai Elantra 1995 exterior/127f2ad168.jpg,Elantra,Hyundai,1995
+dataset/Hyundai Elantra 1995 exterior/930899c598.jpg,Elantra,Hyundai,1995
+dataset/Hyundai Elantra 1995 exterior/4ad324c9a0.jpg,Elantra,Hyundai,1995
+dataset/Hyundai Elantra 1995 exterior/296d5c26f8.jpg,Elantra,Hyundai,1995
+dataset/Hyundai Elantra 2015 exterior/0f5ccc4ad2.jpg,Elantra,Hyundai,2015
+dataset/Hyundai Elantra 2015 exterior/a213a1b77c.jpg,Elantra,Hyundai,2015
+dataset/Hyundai Elantra 2015 exterior/bc7d6f2226.jpg,Elantra,Hyundai,2015
+dataset/Hyundai Elantra 2015 exterior/d330d2370a.jpg,Elantra,Hyundai,2015
+dataset/Hyundai Elantra 2015 exterior/79e042a220.jpg,Elantra,Hyundai,2015
+dataset/Hyundai Elantra 2015 exterior/1b7184e652.jpg,Elantra,Hyundai,2015
+dataset/Hyundai Elantra 2015 exterior/7a6e5eb025.jpg,Elantra,Hyundai,2015
+dataset/Hyundai Elantra 2015 exterior/6a7ac145fa.jpg,Elantra,Hyundai,2015
+dataset/Hyundai Elantra 2015 exterior/8d883197ab.jpg,Elantra,Hyundai,2015
+dataset/Hyundai Elantra 2015 exterior/e87536bb98.jpg,Elantra,Hyundai,2015
+dataset/Hyundai Elantra 2015 exterior/a98a8c56d6.jpg,Elantra,Hyundai,2015
+dataset/Hyundai Elantra 2015 exterior/b581cf8725.jpg,Elantra,Hyundai,2015
+dataset/Volkswagon Passat 1995 exterior/1ca315b4c5.jpg,Passat,Volkswagon,1995
+dataset/Volkswagon Passat 1995 exterior/9287484d8d.jpg,Passat,Volkswagon,1995
+dataset/Volkswagon Passat 1995 exterior/c0666011b1.jpg,Passat,Volkswagon,1995
+dataset/Volkswagon Passat 1995 exterior/3c2aecc02e.jpg,Passat,Volkswagon,1995
+dataset/Volkswagon Passat 1995 exterior/7f94dedeea.jpg,Passat,Volkswagon,1995
+dataset/Volkswagon Passat 1995 exterior/e2430898f9.jpg,Passat,Volkswagon,1995
+dataset/Volkswagon Passat 1995 exterior/78ed9af5ab.jpg,Passat,Volkswagon,1995
+dataset/Volkswagon Passat 1995 exterior/0727100a70.jpg,Passat,Volkswagon,1995
+dataset/Volkswagon Passat 1995 exterior/19ae4bd7a9.jpg,Passat,Volkswagon,1995
+dataset/Volkswagon Passat 1995 exterior/c996f319e7.jpg,Passat,Volkswagon,1995
+dataset/Volkswagon Passat 1995 exterior/3f9a47b99d.jpg,Passat,Volkswagon,1995
+dataset/Volkswagon Passat 1995 exterior/b52267477c.jpg,Passat,Volkswagon,1995
+dataset/Volkswagon Passat 1995 exterior/6dea154f6b.jpg,Passat,Volkswagon,1995
+dataset/Volkswagon Passat 2005 exterior/bdbd4735f4.jpg,Passat,Volkswagon,2005
+dataset/Volkswagon Passat 2005 exterior/3193fa0946.jpg,Passat,Volkswagon,2005
+dataset/Volkswagon Passat 2005 exterior/a0189de408.jpg,Passat,Volkswagon,2005
+dataset/Volkswagon Passat 2005 exterior/1bb14e5d12.jpg,Passat,Volkswagon,2005
+dataset/Volkswagon Passat 2005 exterior/cd91c1943b.jpg,Passat,Volkswagon,2005
+dataset/Volkswagon Passat 2005 exterior/f948c3c55f.jpg,Passat,Volkswagon,2005
+dataset/Volkswagon Passat 2005 exterior/a3fa6f4280.jpg,Passat,Volkswagon,2005
+dataset/Volkswagon Passat 2005 exterior/90fde16648.jpg,Passat,Volkswagon,2005
+dataset/Volkswagon Passat 2005 exterior/475e8dac62.jpg,Passat,Volkswagon,2005
+dataset/Volkswagon Passat 2005 exterior/9f2a39ae68.jpg,Passat,Volkswagon,2005
+dataset/Volkswagon Passat 2005 exterior/a963886394.jpg,Passat,Volkswagon,2005
+dataset/Volkswagon Passat 2005 exterior/5b26e4a25a.jpg,Passat,Volkswagon,2005
+dataset/Volkswagon Passat 2005 exterior/cdb4b5931b.jpg,Passat,Volkswagon,2005
+dataset/Volkswagon Passat 2005 exterior/5b23bd116b.jpg,Passat,Volkswagon,2005
+dataset/Volkswagon Passat 2005 exterior/b73196b8ce.jpg,Passat,Volkswagon,2005
+dataset/Volkswagon Passat 2005 exterior/79a2605dc5.jpg,Passat,Volkswagon,2005
+dataset/Volkswagon Passat 2005 exterior/e883f66ae1.jpg,Passat,Volkswagon,2005
+dataset/Volkswagon Passat 2005 exterior/818192c45e.jpg,Passat,Volkswagon,2005
+dataset/Honda Accord 1985 exterior/701015d153.jpg,Accord,Honda,1985
+dataset/Honda Accord 1985 exterior/950bd366a1.jpg,Accord,Honda,1985
+dataset/Honda Accord 1985 exterior/8ee3dbb921.jpg,Accord,Honda,1985
+dataset/Honda Accord 1985 exterior/e429ff3ede.jpg,Accord,Honda,1985
+dataset/Honda Accord 1985 exterior/503308e61f.jpg,Accord,Honda,1985
+dataset/Honda Accord 1985 exterior/790fcd3c95.jpg,Accord,Honda,1985
+dataset/Honda Accord 1985 exterior/0e793645d5.jpg,Accord,Honda,1985
+dataset/Honda Accord 1985 exterior/efed7749e2.jpg,Accord,Honda,1985
+dataset/Honda Accord 1985 exterior/550414da75.jpg,Accord,Honda,1985
+dataset/Honda Accord 1985 exterior/3e9f63321e.jpg,Accord,Honda,1985
+dataset/Honda Accord 1985 exterior/2047cceb98.jpg,Accord,Honda,1985
+dataset/Honda Accord 1985 exterior/7e5a0b2fb1.jpg,Accord,Honda,1985
+dataset/Honda Accord 1985 exterior/3f09aa1f3d.jpg,Accord,Honda,1985
+dataset/Honda Accord 1985 exterior/e8088f7b76.jpg,Accord,Honda,1985
+dataset/Honda Accord 1985 exterior/7f83187fa0.jpg,Accord,Honda,1985
+dataset/Honda Accord 1985 exterior/e079cb5425.jpg,Accord,Honda,1985
+dataset/Honda Accord 1985 exterior/7aa854bf59.jpg,Accord,Honda,1985
+dataset/Honda Accord 1985 exterior/0a6b30bd31.jpg,Accord,Honda,1985
+dataset/Mitsubishi Lancer 1995 exterior/f740795304.jpg,Lancer,Mitsubishi,1995
+dataset/Mitsubishi Lancer 1995 exterior/2270ca7b23.jpg,Lancer,Mitsubishi,1995
+dataset/Mitsubishi Lancer 1995 exterior/b1433a3b57.jpg,Lancer,Mitsubishi,1995
+dataset/Mitsubishi Lancer 1995 exterior/261001a8f9.jpg,Lancer,Mitsubishi,1995
+dataset/Mitsubishi Lancer 1995 exterior/04696d3789.jpg,Lancer,Mitsubishi,1995
+dataset/Mitsubishi Lancer 1995 exterior/2d0f42413e.jpg,Lancer,Mitsubishi,1995
+dataset/Mitsubishi Lancer 1995 exterior/bb58bbe6f9.jpg,Lancer,Mitsubishi,1995
+dataset/Mitsubishi Lancer 1995 exterior/1357095630.jpg,Lancer,Mitsubishi,1995
+dataset/Mitsubishi Lancer 1995 exterior/9c1278df03.jpg,Lancer,Mitsubishi,1995
+dataset/Mitsubishi Lancer 1995 exterior/17ddea0c06.jpg,Lancer,Mitsubishi,1995
+dataset/Mitsubishi Lancer 1995 exterior/fc58e386d9.jpg,Lancer,Mitsubishi,1995
+dataset/Mitsubishi Lancer 1995 exterior/92fe198358.jpg,Lancer,Mitsubishi,1995
+dataset/Mitsubishi Lancer 1995 exterior/80e476440a.jpg,Lancer,Mitsubishi,1995
+dataset/Mitsubishi Lancer 1995 exterior/57ad2aeeb7.jpg,Lancer,Mitsubishi,1995
+dataset/Mitsubishi Lancer 1995 exterior/8eb7005c2b.jpg,Lancer,Mitsubishi,1995
+dataset/Mitsubishi Lancer 1995 exterior/8bf3497fca.jpg,Lancer,Mitsubishi,1995
+dataset/Mitsubishi Lancer 1995 exterior/fbd80c00e6.jpg,Lancer,Mitsubishi,1995
+dataset/Mitsubishi Lancer 1995 exterior/360eb295bf.jpg,Lancer,Mitsubishi,1995
+dataset/Mitsubishi Lancer 1995 exterior/b746611099.jpg,Lancer,Mitsubishi,1995
+dataset/Mitsubishi Lancer 2015 exterior/24aa649dc2.jpg,Lancer,Mitsubishi,2015
+dataset/Mitsubishi Lancer 2015 exterior/a5fd695154.jpg,Lancer,Mitsubishi,2015
+dataset/Mitsubishi Lancer 2015 exterior/fe07212306.jpg,Lancer,Mitsubishi,2015
+dataset/Mitsubishi Lancer 2015 exterior/9b264ad00e.jpg,Lancer,Mitsubishi,2015
+dataset/Mitsubishi Lancer 2015 exterior/a9f8032768.jpg,Lancer,Mitsubishi,2015
+dataset/Mitsubishi Lancer 2015 exterior/a2815777df.jpg,Lancer,Mitsubishi,2015
+dataset/Mitsubishi Lancer 2015 exterior/de77897492.jpg,Lancer,Mitsubishi,2015
+dataset/Mitsubishi Lancer 2015 exterior/53007e73d5.jpg,Lancer,Mitsubishi,2015
+dataset/Mitsubishi Lancer 2015 exterior/4c4ae870e8.jpg,Lancer,Mitsubishi,2015
+dataset/Mitsubishi Lancer 2015 exterior/9af3c00626.jpg,Lancer,Mitsubishi,2015
+dataset/Mitsubishi Lancer 2015 exterior/a6e91a2134.jpg,Lancer,Mitsubishi,2015
+dataset/Mitsubishi Lancer 2015 exterior/bd2dc8ad8f.jpg,Lancer,Mitsubishi,2015
+dataset/Toyota Corolla 1995 exterior sedan/2d453950af.jpg,Corolla,Toyota,1995
+dataset/Toyota Corolla 1995 exterior sedan/4e95a651bb.jpg,Corolla,Toyota,1995
+dataset/Toyota Corolla 1995 exterior sedan/92343454be.jpg,Corolla,Toyota,1995
+dataset/Toyota Corolla 1995 exterior sedan/d233176dea.jpg,Corolla,Toyota,1995
+dataset/Toyota Corolla 1995 exterior sedan/295f4e3556.jpg,Corolla,Toyota,1995
+dataset/Toyota Corolla 1995 exterior sedan/460975ed0b.jpg,Corolla,Toyota,1995
+dataset/Toyota Corolla 1995 exterior sedan/daacb1a8b0.jpg,Corolla,Toyota,1995
+dataset/Toyota Corolla 1995 exterior sedan/30b540bfde.jpg,Corolla,Toyota,1995
+dataset/Toyota Corolla 1995 exterior sedan/3aae270b2f.jpg,Corolla,Toyota,1995
+dataset/Toyota Corolla 1995 exterior sedan/1cbc0273af.jpg,Corolla,Toyota,1995
+dataset/Toyota Corolla 1995 exterior sedan/03615a641b.jpg,Corolla,Toyota,1995
+dataset/Toyota Corolla 1995 exterior sedan/31b9315783.jpg,Corolla,Toyota,1995
+dataset/Toyota Corolla 1995 exterior sedan/f33600c8c5.jpg,Corolla,Toyota,1995
+dataset/Toyota Corolla 1995 exterior sedan/83b8f3d39e.jpg,Corolla,Toyota,1995
+dataset/Toyota Corolla 1995 exterior sedan/61bcf7e08d.jpg,Corolla,Toyota,1995
+dataset/Toyota Corolla 1995 exterior sedan/ce64d4050e.jpg,Corolla,Toyota,1995
+dataset/Toyota Corolla 1995 exterior sedan/30de641e27.jpg,Corolla,Toyota,1995
+dataset/Toyota Corolla 1995 exterior sedan/96a866482e.jpg,Corolla,Toyota,1995
+dataset/Chevrolet Impala 2015 exterior/11f38c341f.jpg,Impala,Chevrolet,2015
+dataset/Chevrolet Impala 2015 exterior/e9cd57be18.jpg,Impala,Chevrolet,2015
+dataset/Chevrolet Impala 2015 exterior/4292d4936e.jpg,Impala,Chevrolet,2015
+dataset/Chevrolet Impala 2015 exterior/a79e069206.jpg,Impala,Chevrolet,2015
+dataset/Chevrolet Impala 2015 exterior/93ae45c9d8.jpg,Impala,Chevrolet,2015
+dataset/Chevrolet Impala 2015 exterior/eaa9d97e67.jpg,Impala,Chevrolet,2015
+dataset/Chevrolet Impala 2015 exterior/70f60376bc.jpg,Impala,Chevrolet,2015
+dataset/Chevrolet Impala 2015 exterior/6b2b400506.jpg,Impala,Chevrolet,2015
+dataset/Chevrolet Impala 2015 exterior/cc5cc1f9ee.jpg,Impala,Chevrolet,2015
+dataset/Chevrolet Impala 2015 exterior/2842b94a8b.jpg,Impala,Chevrolet,2015
+dataset/Chevrolet Impala 2015 exterior/11557ea63b.jpg,Impala,Chevrolet,2015
+dataset/Chevrolet Impala 2015 exterior/bf034c4ab8.jpg,Impala,Chevrolet,2015
+dataset/Chevrolet Impala 2015 exterior/c5c298eb5e.jpg,Impala,Chevrolet,2015
+dataset/Chevrolet Impala 2015 exterior/9a54f1cee5.jpg,Impala,Chevrolet,2015
+dataset/Nissan Maxima 2015 exterior/d1a94de1b8.jpg,Maxima,Nissan,2015
+dataset/Nissan Maxima 2015 exterior/c0f8f4eb79.jpg,Maxima,Nissan,2015
+dataset/Nissan Maxima 2015 exterior/6180875ed6.jpg,Maxima,Nissan,2015
+dataset/Nissan Maxima 2015 exterior/8350762a14.jpg,Maxima,Nissan,2015
+dataset/Nissan Maxima 2015 exterior/a31f319067.jpg,Maxima,Nissan,2015
+dataset/Nissan Maxima 2015 exterior/3ec0cbfb5b.jpg,Maxima,Nissan,2015
+dataset/Nissan Maxima 2015 exterior/43b68b3807.jpg,Maxima,Nissan,2015
+dataset/Nissan Maxima 2015 exterior/652873e9dd.jpg,Maxima,Nissan,2015
+dataset/Nissan Maxima 2015 exterior/4d9df717a0.jpg,Maxima,Nissan,2015
+dataset/Nissan Maxima 2015 exterior/c7f4ac1725.jpg,Maxima,Nissan,2015
+dataset/Nissan Maxima 2015 exterior/bc69cdd789.jpg,Maxima,Nissan,2015
+dataset/Nissan Maxima 2015 exterior/2ff5b6ae96.jpg,Maxima,Nissan,2015
+dataset/Nissan Maxima 2015 exterior/9e92494f68.jpg,Maxima,Nissan,2015
+dataset/Nissan Maxima 2015 exterior/7945a6f309.jpg,Maxima,Nissan,2015
+dataset/Nissan Maxima 2015 exterior/535d6016e3.jpg,Maxima,Nissan,2015
+dataset/Nissan Maxima 2015 exterior/d4ae337e3d.jpg,Maxima,Nissan,2015
+dataset/Kia Optima 2023 exterior/241ba960fd.jpg,Optima,Kia,2023
+dataset/Kia Optima 2023 exterior/4db6b2fbb5.jpg,Optima,Kia,2023
+dataset/Kia Optima 2023 exterior/dae60f019f.jpg,Optima,Kia,2023
+dataset/Kia Optima 2023 exterior/7ea4720923.jpg,Optima,Kia,2023
+dataset/Kia Optima 2023 exterior/1e0edd4402.jpg,Optima,Kia,2023
+dataset/Kia Optima 2023 exterior/de754a0dd8.jpg,Optima,Kia,2023
+dataset/Kia Optima 2023 exterior/4b803f32dd.jpg,Optima,Kia,2023
+dataset/Kia Optima 2023 exterior/4e47970b54.jpg,Optima,Kia,2023
+dataset/Kia Optima 2023 exterior/c16cbaa533.jpg,Optima,Kia,2023
+dataset/Kia Optima 2023 exterior/6503d59958.jpg,Optima,Kia,2023
+dataset/Kia Optima 2023 exterior/20ccf30330.jpg,Optima,Kia,2023
+dataset/Kia Optima 2023 exterior/78c892a659.jpg,Optima,Kia,2023
+dataset/Kia Optima 2023 exterior/fd2dabbcde.jpg,Optima,Kia,2023
+dataset/Kia Optima 2023 exterior/cb8e14a800.jpg,Optima,Kia,2023
+dataset/Kia Optima 2023 exterior/43a8305122.jpg,Optima,Kia,2023
+dataset/Kia Optima 2023 exterior/0ed9b351d9.jpg,Optima,Kia,2023
+dataset/Kia Optima 2023 exterior/15c3f45540.jpg,Optima,Kia,2023
+dataset/Buick Regal 1988 exterior/f490afc3d4.jpg,Regal,Buick,1988
+dataset/Buick Regal 1988 exterior/a30555e86a.jpg,Regal,Buick,1988
+dataset/Buick Regal 1988 exterior/4c893eb8bb.jpg,Regal,Buick,1988
+dataset/Buick Regal 1988 exterior/139da6f527.jpg,Regal,Buick,1988
+dataset/Buick Regal 1988 exterior/d6f3868ab7.jpg,Regal,Buick,1988
+dataset/Buick Regal 1988 exterior/1da8228b0b.jpg,Regal,Buick,1988
+dataset/Buick Regal 1988 exterior/697f41ce07.jpg,Regal,Buick,1988
+dataset/Buick Regal 1988 exterior/621089b6c4.jpg,Regal,Buick,1988
+dataset/Buick Regal 1988 exterior/888d4dafff.jpg,Regal,Buick,1988
+dataset/Buick Regal 1988 exterior/a6727e679b.jpg,Regal,Buick,1988
+dataset/Buick Regal 1988 exterior/aca9634eed.jpg,Regal,Buick,1988
+dataset/Buick Regal 1988 exterior/638c518dcb.jpg,Regal,Buick,1988
+dataset/Buick Regal 1988 exterior/3a7c97ac01.jpg,Regal,Buick,1988
+dataset/Buick Regal 1988 exterior/16a426df4a.jpg,Regal,Buick,1988
+dataset/Buick Regal 1988 exterior/7aacb8cbfb.jpg,Regal,Buick,1988
+dataset/Buick Regal 1988 exterior/94efeefe4f.jpg,Regal,Buick,1988
+dataset/Buick Regal 1988 exterior/7a35708b73.jpg,Regal,Buick,1988
