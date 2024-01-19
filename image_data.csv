@@ -1014,7 +1014,8 @@ dataset/Buick Regal 2003 exterior/5cede77cb2.jpg,Regal,Buick,2003
 dataset/Buick Regal 2003 exterior/6cfb31fea7.jpg,Regal,Buick,2003
 dataset/Buick Regal 2003 exterior/0f0e32b64c.jpg,Regal,Buick,2003
 dataset/Buick Regal 2003 exterior/212f020be2.jpg,Regal,Buick,2003
-dataset/Buick Regal 2003 exterior/1cfe65eb0b.jpg,Regal,Buick,2003dataset/toyota camry 1995 exterior/d71b0ecc11.jpg,camry,toyota,1995
+dataset/Buick Regal 2003 exterior/1cfe65eb0b.jpg,Regal,Buick,2003
+dataset/toyota camry 1995 exterior/d71b0ecc11.jpg,camry,toyota,1995
 dataset/toyota camry 1995 exterior/c458887874.jpg,camry,toyota,1995
 dataset/toyota camry 1995 exterior/fad07b20fe.jpg,camry,toyota,1995
 dataset/toyota camry 1995 exterior/50de5fb1b7.jpg,camry,toyota,1995
@@ -1022,7 +1023,6 @@ dataset/toyota camry 1995 exterior/6eb46f27c5.jpg,camry,toyota,1995
 dataset/toyota camry 1995 exterior/a68c38c3ed.jpg,camry,toyota,1995
 dataset/toyota camry 1995 exterior/35e69bf2b9.jpg,camry,toyota,1995
 dataset/toyota camry 1995 exterior/15615d7438.jpg,camry,toyota,1995
-dataset/toyota camry 1995 exterior/8933131309.jpg,camry,toyota,1995
 dataset/toyota camry 1995 exterior/0302502727.jpg,camry,toyota,1995
 dataset/toyota camry 1995 exterior/c93f8a7bb9.jpg,camry,toyota,1995
 dataset/toyota camry 1995 exterior/3342704822.jpg,camry,toyota,1995
@@ -1065,12 +1065,10 @@ dataset/BMW M3 Sedan 2005 exterior/3fb10f6a79.jpg,M3,BMW,Sedan
 dataset/BMW M3 Sedan 2005 exterior/ac2a37bee8.jpg,M3,BMW,Sedan
 dataset/BMW M3 Sedan 2005 exterior/c48f852605.jpg,M3,BMW,Sedan
 dataset/BMW M3 Sedan 2005 exterior/395a43182e.jpg,M3,BMW,Sedan
-dataset/BMW M3 Sedan 2005 exterior/8f36555d36.jpg,M3,BMW,Sedan
 dataset/BMW M3 Sedan 2005 exterior/97d1770300.jpg,M3,BMW,Sedan
 dataset/Lexus LS 1989 exterior/6257d1aadd.jpg,LS,Lexus,1989
 dataset/Lexus LS 1989 exterior/356100ab32.jpg,LS,Lexus,1989
 dataset/Lexus LS 1989 exterior/318c5b7ef4.jpg,LS,Lexus,1989
-dataset/Lexus LS 1989 exterior/e44a0b06f1.jpg,LS,Lexus,1989
 dataset/Lexus LS 1989 exterior/3da25747e3.jpg,LS,Lexus,1989
 dataset/Lexus LS 1989 exterior/4b372d16d4.jpg,LS,Lexus,1989
 dataset/Lexus LS 1989 exterior/9b8cbc0ebf.jpg,LS,Lexus,1989
@@ -1085,7 +1083,6 @@ dataset/Lexus LS 1989 exterior/3757f47989.jpg,LS,Lexus,1989
 dataset/Lexus LS 1989 exterior/01d028a3cc.jpg,LS,Lexus,1989
 dataset/Lexus LS 1989 exterior/8d87947b42.jpg,LS,Lexus,1989
 dataset/Lexus LS 1989 exterior/4da0040b2e.jpg,LS,Lexus,1989
-dataset/Lexus LS 1989 exterior/2c54e2a96d.jpg,LS,Lexus,1989
 dataset/Lexus LS 1989 exterior/d364bd8baf.jpg,LS,Lexus,1989
 dataset/Hyundai Elantra 1995 exterior/658ed09621.jpg,Elantra,Hyundai,1995
 dataset/Hyundai Elantra 1995 exterior/e82674928d.jpg,Elantra,Hyundai,1995
@@ -1093,12 +1090,11 @@ dataset/Hyundai Elantra 1995 exterior/c44b957840.jpg,Elantra,Hyundai,1995
 dataset/Hyundai Elantra 1995 exterior/c2b08d884f.jpg,Elantra,Hyundai,1995
 dataset/Hyundai Elantra 1995 exterior/86b3e92ed3.jpg,Elantra,Hyundai,1995
 dataset/Hyundai Elantra 1995 exterior/d9dbb3f106.jpg,Elantra,Hyundai,1995
-dataset/Hyundai Elantra 1995 exterior/554bab0408.jpg,Elantra,Hyundai,1995
 dataset/Hyundai Elantra 1995 exterior/a379c10c6b.jpg,Elantra,Hyundai,1995
 dataset/Hyundai Elantra 1995 exterior/61943d2f75.jpg,Elantra,Hyundai,1995
-dataset/Hyundai Elantra 1995 exterior/a117539b79.jpg,Elantra,Hyundai,1995
-dataset/Hyundai Elantra 1995 exterior/86f26320af.jpg,Elantra,Hyundai,1995
-dataset/Hyundai Elantra 1995 exterior/127f2ad168.jpg,Elantra,Hyundai,1995
+dataset/Hyundai Elantra 2023 exterior/a117539b79.jpg,Elantra,Hyundai,2023
+dataset/Hyundai Elantra 2023 exterior/86f26320af.jpg,Elantra,Hyundai,2023
+dataset/Hyundai Elantra 2023 exterior/127f2ad168.jpg,Elantra,Hyundai,2023
 dataset/Hyundai Elantra 1995 exterior/930899c598.jpg,Elantra,Hyundai,1995
 dataset/Hyundai Elantra 1995 exterior/4ad324c9a0.jpg,Elantra,Hyundai,1995
 dataset/Hyundai Elantra 1995 exterior/296d5c26f8.jpg,Elantra,Hyundai,1995
@@ -1128,11 +1124,9 @@ dataset/Volkswagon Passat 1995 exterior/3f9a47b99d.jpg,Passat,Volkswagon,1995
 dataset/Volkswagon Passat 1995 exterior/b52267477c.jpg,Passat,Volkswagon,1995
 dataset/Volkswagon Passat 1995 exterior/6dea154f6b.jpg,Passat,Volkswagon,1995
 dataset/Volkswagon Passat 2005 exterior/bdbd4735f4.jpg,Passat,Volkswagon,2005
-dataset/Volkswagon Passat 2005 exterior/3193fa0946.jpg,Passat,Volkswagon,2005
 dataset/Volkswagon Passat 2005 exterior/a0189de408.jpg,Passat,Volkswagon,2005
 dataset/Volkswagon Passat 2005 exterior/1bb14e5d12.jpg,Passat,Volkswagon,2005
 dataset/Volkswagon Passat 2005 exterior/cd91c1943b.jpg,Passat,Volkswagon,2005
-dataset/Volkswagon Passat 2005 exterior/f948c3c55f.jpg,Passat,Volkswagon,2005
 dataset/Volkswagon Passat 2005 exterior/a3fa6f4280.jpg,Passat,Volkswagon,2005
 dataset/Volkswagon Passat 2005 exterior/90fde16648.jpg,Passat,Volkswagon,2005
 dataset/Volkswagon Passat 2005 exterior/475e8dac62.jpg,Passat,Volkswagon,2005
@@ -1195,11 +1189,9 @@ dataset/Mitsubishi Lancer 2015 exterior/9af3c00626.jpg,Lancer,Mitsubishi,2015
 dataset/Mitsubishi Lancer 2015 exterior/a6e91a2134.jpg,Lancer,Mitsubishi,2015
 dataset/Mitsubishi Lancer 2015 exterior/bd2dc8ad8f.jpg,Lancer,Mitsubishi,2015
 dataset/Toyota Corolla 1995 exterior sedan/2d453950af.jpg,Corolla,Toyota,1995
-dataset/Toyota Corolla 1995 exterior sedan/4e95a651bb.jpg,Corolla,Toyota,1995
 dataset/Toyota Corolla 1995 exterior sedan/92343454be.jpg,Corolla,Toyota,1995
 dataset/Toyota Corolla 1995 exterior sedan/d233176dea.jpg,Corolla,Toyota,1995
 dataset/Toyota Corolla 1995 exterior sedan/295f4e3556.jpg,Corolla,Toyota,1995
-dataset/Toyota Corolla 1995 exterior sedan/460975ed0b.jpg,Corolla,Toyota,1995
 dataset/Toyota Corolla 1995 exterior sedan/daacb1a8b0.jpg,Corolla,Toyota,1995
 dataset/Toyota Corolla 1995 exterior sedan/30b540bfde.jpg,Corolla,Toyota,1995
 dataset/Toyota Corolla 1995 exterior sedan/3aae270b2f.jpg,Corolla,Toyota,1995
@@ -1226,7 +1218,6 @@ dataset/Chevrolet Impala 2015 exterior/11557ea63b.jpg,Impala,Chevrolet,2015
 dataset/Chevrolet Impala 2015 exterior/bf034c4ab8.jpg,Impala,Chevrolet,2015
 dataset/Chevrolet Impala 2015 exterior/c5c298eb5e.jpg,Impala,Chevrolet,2015
 dataset/Chevrolet Impala 2015 exterior/9a54f1cee5.jpg,Impala,Chevrolet,2015
-dataset/Nissan Maxima 2015 exterior/d1a94de1b8.jpg,Maxima,Nissan,2015
 dataset/Nissan Maxima 2015 exterior/c0f8f4eb79.jpg,Maxima,Nissan,2015
 dataset/Nissan Maxima 2015 exterior/6180875ed6.jpg,Maxima,Nissan,2015
 dataset/Nissan Maxima 2015 exterior/8350762a14.jpg,Maxima,Nissan,2015
@@ -1236,7 +1227,6 @@ dataset/Nissan Maxima 2015 exterior/43b68b3807.jpg,Maxima,Nissan,2015
 dataset/Nissan Maxima 2015 exterior/652873e9dd.jpg,Maxima,Nissan,2015
 dataset/Nissan Maxima 2015 exterior/4d9df717a0.jpg,Maxima,Nissan,2015
 dataset/Nissan Maxima 2015 exterior/c7f4ac1725.jpg,Maxima,Nissan,2015
-dataset/Nissan Maxima 2015 exterior/bc69cdd789.jpg,Maxima,Nissan,2015
 dataset/Nissan Maxima 2015 exterior/2ff5b6ae96.jpg,Maxima,Nissan,2015
 dataset/Nissan Maxima 2015 exterior/9e92494f68.jpg,Maxima,Nissan,2015
 dataset/Nissan Maxima 2015 exterior/7945a6f309.jpg,Maxima,Nissan,2015
@@ -1255,7 +1245,6 @@ dataset/Kia Optima 2023 exterior/6503d59958.jpg,Optima,Kia,2023
 dataset/Kia Optima 2023 exterior/20ccf30330.jpg,Optima,Kia,2023
 dataset/Kia Optima 2023 exterior/78c892a659.jpg,Optima,Kia,2023
 dataset/Kia Optima 2023 exterior/fd2dabbcde.jpg,Optima,Kia,2023
-dataset/Kia Optima 2023 exterior/cb8e14a800.jpg,Optima,Kia,2023
 dataset/Kia Optima 2023 exterior/43a8305122.jpg,Optima,Kia,2023
 dataset/Kia Optima 2023 exterior/0ed9b351d9.jpg,Optima,Kia,2023
 dataset/Kia Optima 2023 exterior/15c3f45540.jpg,Optima,Kia,2023
@@ -1284,7 +1273,6 @@ dataset/toyota camry 2005 exterior/c92c87887c.jpg,camry,toyota,2005
 dataset/toyota camry 2005 exterior/b3a23cb618.jpg,camry,toyota,2005
 dataset/toyota camry 2005 exterior/c15dda9068.jpg,camry,toyota,2005
 dataset/toyota camry 2005 exterior/8f88e475fa.jpg,camry,toyota,2005
-dataset/toyota camry 2005 exterior/c8cbe024c3.jpg,camry,toyota,2005
 dataset/toyota camry 2005 exterior/55b3b7164e.jpg,camry,toyota,2005
 dataset/Honda Civic 1995 exterior/87b9f6036f.jpg,Civic,Honda,1995
 dataset/Honda Civic 1995 exterior/07024e2002.jpg,Civic,Honda,1995
@@ -1302,9 +1290,7 @@ dataset/Hyundai Sonata 2005 exterior/dcbe4b23d7.jpg,Sonata,Hyundai,2005
 dataset/Hyundai Sonata 2005 exterior/77acaec530.jpg,Sonata,Hyundai,2005
 dataset/Hyundai Sonata 2005 exterior/37145c53f4.jpg,Sonata,Hyundai,2005
 dataset/Hyundai Sonata 2005 exterior/f5778d389b.jpg,Sonata,Hyundai,2005
-dataset/Hyundai Sonata 2005 exterior/152fdf4cf6.jpg,Sonata,Hyundai,2005
 dataset/Hyundai Sonata 2005 exterior/3673b3b623.jpg,Sonata,Hyundai,2005
-dataset/Hyundai Sonata 2005 exterior/eb241326a5.jpg,Sonata,Hyundai,2005
 dataset/Hyundai Sonata 2005 exterior/2d0a5b4781.jpg,Sonata,Hyundai,2005
 dataset/Hyundai Sonata 2005 exterior/31fd66c6e8.jpg,Sonata,Hyundai,2005
 dataset/Hyundai Sonata 2005 exterior/baf90dd389.jpg,Sonata,Hyundai,2005
@@ -1317,12 +1303,3 @@ dataset/Toyota Corolla 2005 exterior sedan/2343c42cdb.jpg,Corolla,Toyota,2005
 dataset/Toyota Corolla 2005 exterior sedan/702d9e9719.jpg,Corolla,Toyota,2005
 dataset/Toyota Corolla 2005 exterior sedan/3099c6c8f5.jpg,Corolla,Toyota,2005
 dataset/Toyota Corolla 2005 exterior sedan/2a23a72c3f.jpg,Corolla,Toyota,2005
-dataset/Chevrolet Impala 2023 exterior/39629b03b6.jpg,Impala,Chevrolet,2023
-dataset/Chevrolet Impala 2023 exterior/247a68d72b.jpg,Impala,Chevrolet,2023
-dataset/Chevrolet Impala 2023 exterior/28127a5889.jpg,Impala,Chevrolet,2023
-dataset/Chevrolet Impala 2023 exterior/8f60408072.jpg,Impala,Chevrolet,2023
-dataset/Chevrolet Impala 2023 exterior/18b80cf549.jpg,Impala,Chevrolet,2023
-dataset/Chevrolet Impala 2023 exterior/64f21c43cb.jpg,Impala,Chevrolet,2023
-dataset/Chevrolet Impala 2023 exterior/8efbbdc906.jpg,Impala,Chevrolet,2023
-dataset/Chevrolet Impala 2023 exterior/d1b74029b8.jpg,Impala,Chevrolet,2023
-dataset/Chevrolet Impala 2023 exterior/df3afb867e.jpg,Impala,Chevrolet,2023
