@@ -156,7 +156,7 @@ if __name__ == '__main__':
         search_box = wd.find_element(By.CSS_SELECTOR, 'textarea[jsname="yZiJbe"].gLFyf')
         #search_box = wd.find_element_by_css_selector('input.gLFyf')
         search_box.send_keys(query)
-        links = fetch_image_urls(query,20,wd) # 500 denotes no. of images you want to download
+        links = fetch_image_urls(query,10,wd) # 500 denotes no. of images you want to download
         images_path = 'dataset/'
         words = query.split()
         make = words[0]
