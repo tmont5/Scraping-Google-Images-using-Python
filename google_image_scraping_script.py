@@ -59,20 +59,17 @@ def fetch_image_urls(query:str, max_links_to_fetch:int, wd:webdriver, sleep_betw
             try:
                 print('Trying to Click the Image')
                 img.click()
-                WebDriverWait(wd, 10).until(
+                WebDriverWait(wd, 15).until(
                     EC.presence_of_element_located((By.CSS_SELECTOR, 'img[jsname="kn3ccd"]'))
                 )
                 #time.sleep(sleep_between_interactions)
                 print('Image Click Successful!')
-            except Exception:
-                error_clicks = error_clicks + 1
-                print('ERROR: Unable to Click the Image')
-                if(results_start < number_results):
-                	continue
-                else:
+            except Exception as e:
+                print('ERROR:', e)
+                error_clicks += 1
+            finally:
+                if results_start >= number_results:
                     break
-            #else: 	
-                #results_start = results_start + 1
 
             # extract image urls    
             print('Extracting of Image URLs')
