@@ -150,7 +150,7 @@ if __name__ == '__main__':
     #queries = ["toyota camry 1985 exterior", "toyota camry 1995 exterior", "toyota camry 2005 exterior", "toyota camry 2015 exterior", "toyota camry 2023 exterior"]  #change your set of queries here
     for query in queries:
         wd.get('https://google.com')
-        search_box = wd.find_element(By.CSS_SELECTOR, 'textarea[jsname="yZiJbe"].gLFyf')
+        search_box = wd.find_element(By.CSS_SELECTOR, 'textarea[class="gLFyf"]')
         #search_box = wd.find_element_by_css_selector('input.gLFyf')
         search_box.send_keys(query)
         links = fetch_image_urls(query,10,wd) # 500 denotes no. of images you want to download
