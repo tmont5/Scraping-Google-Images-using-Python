@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Display JSON Data</title>
+</head>
+<body>
+    <div id="json-container">
+        <!-- JSON data will be displayed here -->
+    </div>
+
+    <script>
+        // Fetch JSON data from data.json file
+        fetch('data.json')
+            .then(response => response.json())
+            .then(data => {
+                // Manipulate the DOM to display JSON data
+                const jsonContainer = document.getElementById('json-container');
+                jsonContainer.textContent = JSON.stringify(data, null, 2);
+            })
+            .catch(error => console.error('Error fetching JSON:', error));
+    </script>
+</body>
+</html>
